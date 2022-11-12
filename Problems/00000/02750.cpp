@@ -1,4 +1,4 @@
-/*#include <iostream>
+#include <iostream>
 #include <algorithm>
 
 using namespace std;
@@ -13,4 +13,4 @@ int main() {
     for(int i = 0; i < N; i++) cout << A[i] << "\n";
 
     return 0;
-}*/
+}

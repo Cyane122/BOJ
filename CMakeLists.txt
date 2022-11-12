@@ -8,3 +8,8 @@ include_directories(Problems)
 
 add_executable(BOJ
         Problems/00000/01806.cpp Problems/00000/02750.cpp Problems/10000/10989.cpp Problems/00000/01427.cpp Problems/10000/11650.cpp Problems/10000/10872.cpp Problems/10000/10870.cpp Problems/20000/25501.cpp)
+
+add_executable(Problems_10000_10989 Problems/10000/10989.cpp)
+add_executable(Problems_10000_11650 Problems/10000/11650.cpp)
+add_executable(Problems_10000_10872 Problems/10000/10872.cpp)
+add_executable(Problems_10000_10870 Problems/10000/10870.cpp)

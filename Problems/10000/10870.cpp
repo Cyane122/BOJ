@@ -1,5 +1,7 @@
-/*#include <bits/stdc++.h>
-
+#include <bits/stdc++.h>
+/**
+ * #10870 피보나치 수열
+ */
 using namespace std;
 
 int pibo(int N) {
@@ -12,4 +14,4 @@ int main() {
     int N; cin >> N;
     cout << pibo(N);
     return 0;
-}*/
+}

@@ -1,4 +1,4 @@
-/* #include <bits/stdc++.h>
+#include <bits/stdc++.h>
 
 using namespace std;
 
@@ -10,4 +10,4 @@ int factorial(int N) {
 int main() {
     int N; cin >> N;
     cout << factorial(N);
-} */
+}

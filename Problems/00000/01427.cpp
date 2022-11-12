@@ -1,4 +1,4 @@
-/*#include <bits/stdc++.h>
+#include <bits/stdc++.h>
 
 using namespace std;
 
@@ -12,4 +12,4 @@ int main() {
     sort(N, N+k, amp);
     cout << N;
     return 0;
-}*/
+}
