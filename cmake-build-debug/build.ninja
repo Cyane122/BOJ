@@ -41,87 +41,310 @@ include CMakeFiles/rules.ninja
 
 cmake_ninja_workdir = C$:/Users/User/CLionProjects/BOJ/cmake-build-debug/
 # =============================================================================
-# Object build statements for EXECUTABLE target BOJ
+# Object build statements for EXECUTABLE target Problems_10000_10250
 
 
 #############################################
-# Order-only phony target for BOJ
+# Order-only phony target for Problems_10000_10250
 
-build cmake_object_order_depends_target_BOJ: phony || CMakeFiles/BOJ.dir
+build cmake_object_order_depends_target_Problems_10000_10250: phony || CMakeFiles/Problems_10000_10250.dir
 
-build CMakeFiles/BOJ.dir/Problems/00000/01806.cpp.obj: CXX_COMPILER__BOJ_Debug C$:/Users/User/CLionProjects/BOJ/Problems/00000/01806.cpp || cmake_object_order_depends_target_BOJ
-  DEP_FILE = CMakeFiles\BOJ.dir\Problems\00000\01806.cpp.obj.d
+build CMakeFiles/Problems_10000_10250.dir/Problems/10000/10250.cpp.obj: CXX_COMPILER__Problems_10000_10250_Debug C$:/Users/User/CLionProjects/BOJ/Problems/10000/10250.cpp || cmake_object_order_depends_target_Problems_10000_10250
+  DEP_FILE = CMakeFiles\Problems_10000_10250.dir\Problems\10000\10250.cpp.obj.d
   FLAGS = -g -std=gnu++14
   INCLUDES = -IC:/Users/User/CLionProjects/BOJ/. -IC:/Users/User/CLionProjects/BOJ/Problems
-  OBJECT_DIR = CMakeFiles\BOJ.dir
-  OBJECT_FILE_DIR = CMakeFiles\BOJ.dir\Problems\00000
-
-build CMakeFiles/BOJ.dir/Problems/00000/02750.cpp.obj: CXX_COMPILER__BOJ_Debug C$:/Users/User/CLionProjects/BOJ/Problems/00000/02750.cpp || cmake_object_order_depends_target_BOJ
-  DEP_FILE = CMakeFiles\BOJ.dir\Problems\00000\02750.cpp.obj.d
-  FLAGS = -g -std=gnu++14
-  INCLUDES = -IC:/Users/User/CLionProjects/BOJ/. -IC:/Users/User/CLionProjects/BOJ/Problems
-  OBJECT_DIR = CMakeFiles\BOJ.dir
-  OBJECT_FILE_DIR = CMakeFiles\BOJ.dir\Problems\00000
-
-build CMakeFiles/BOJ.dir/Problems/10000/10989.cpp.obj: CXX_COMPILER__BOJ_Debug C$:/Users/User/CLionProjects/BOJ/Problems/10000/10989.cpp || cmake_object_order_depends_target_BOJ
-  DEP_FILE = CMakeFiles\BOJ.dir\Problems\10000\10989.cpp.obj.d
-  FLAGS = -g -std=gnu++14
-  INCLUDES = -IC:/Users/User/CLionProjects/BOJ/. -IC:/Users/User/CLionProjects/BOJ/Problems
-  OBJECT_DIR = CMakeFiles\BOJ.dir
-  OBJECT_FILE_DIR = CMakeFiles\BOJ.dir\Problems\10000
-
-build CMakeFiles/BOJ.dir/Problems/00000/01427.cpp.obj: CXX_COMPILER__BOJ_Debug C$:/Users/User/CLionProjects/BOJ/Problems/00000/01427.cpp || cmake_object_order_depends_target_BOJ
-  DEP_FILE = CMakeFiles\BOJ.dir\Problems\00000\01427.cpp.obj.d
-  FLAGS = -g -std=gnu++14
-  INCLUDES = -IC:/Users/User/CLionProjects/BOJ/. -IC:/Users/User/CLionProjects/BOJ/Problems
-  OBJECT_DIR = CMakeFiles\BOJ.dir
-  OBJECT_FILE_DIR = CMakeFiles\BOJ.dir\Problems\00000
-
-build CMakeFiles/BOJ.dir/Problems/10000/11650.cpp.obj: CXX_COMPILER__BOJ_Debug C$:/Users/User/CLionProjects/BOJ/Problems/10000/11650.cpp || cmake_object_order_depends_target_BOJ
-  DEP_FILE = CMakeFiles\BOJ.dir\Problems\10000\11650.cpp.obj.d
-  FLAGS = -g -std=gnu++14
-  INCLUDES = -IC:/Users/User/CLionProjects/BOJ/. -IC:/Users/User/CLionProjects/BOJ/Problems
-  OBJECT_DIR = CMakeFiles\BOJ.dir
-  OBJECT_FILE_DIR = CMakeFiles\BOJ.dir\Problems\10000
-
-build CMakeFiles/BOJ.dir/Problems/10000/10872.cpp.obj: CXX_COMPILER__BOJ_Debug C$:/Users/User/CLionProjects/BOJ/Problems/10000/10872.cpp || cmake_object_order_depends_target_BOJ
-  DEP_FILE = CMakeFiles\BOJ.dir\Problems\10000\10872.cpp.obj.d
-  FLAGS = -g -std=gnu++14
-  INCLUDES = -IC:/Users/User/CLionProjects/BOJ/. -IC:/Users/User/CLionProjects/BOJ/Problems
-  OBJECT_DIR = CMakeFiles\BOJ.dir
-  OBJECT_FILE_DIR = CMakeFiles\BOJ.dir\Problems\10000
-
-build CMakeFiles/BOJ.dir/Problems/10000/10870.cpp.obj: CXX_COMPILER__BOJ_Debug C$:/Users/User/CLionProjects/BOJ/Problems/10000/10870.cpp || cmake_object_order_depends_target_BOJ
-  DEP_FILE = CMakeFiles\BOJ.dir\Problems\10000\10870.cpp.obj.d
-  FLAGS = -g -std=gnu++14
-  INCLUDES = -IC:/Users/User/CLionProjects/BOJ/. -IC:/Users/User/CLionProjects/BOJ/Problems
-  OBJECT_DIR = CMakeFiles\BOJ.dir
-  OBJECT_FILE_DIR = CMakeFiles\BOJ.dir\Problems\10000
-
-build CMakeFiles/BOJ.dir/Problems/20000/25501.cpp.obj: CXX_COMPILER__BOJ_Debug C$:/Users/User/CLionProjects/BOJ/Problems/20000/25501.cpp || cmake_object_order_depends_target_BOJ
-  DEP_FILE = CMakeFiles\BOJ.dir\Problems\20000\25501.cpp.obj.d
-  FLAGS = -g -std=gnu++14
-  INCLUDES = -IC:/Users/User/CLionProjects/BOJ/. -IC:/Users/User/CLionProjects/BOJ/Problems
-  OBJECT_DIR = CMakeFiles\BOJ.dir
-  OBJECT_FILE_DIR = CMakeFiles\BOJ.dir\Problems\20000
+  OBJECT_DIR = CMakeFiles\Problems_10000_10250.dir
+  OBJECT_FILE_DIR = CMakeFiles\Problems_10000_10250.dir\Problems\10000
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target BOJ
+# Link build statements for EXECUTABLE target Problems_10000_10250
 
 
 #############################################
-# Link the executable BOJ.exe
+# Link the executable Problems_10000_10250.exe
 
-build BOJ.exe: CXX_EXECUTABLE_LINKER__BOJ_Debug CMakeFiles/BOJ.dir/Problems/00000/01806.cpp.obj CMakeFiles/BOJ.dir/Problems/00000/02750.cpp.obj CMakeFiles/BOJ.dir/Problems/10000/10989.cpp.obj CMakeFiles/BOJ.dir/Problems/00000/01427.cpp.obj CMakeFiles/BOJ.dir/Problems/10000/11650.cpp.obj CMakeFiles/BOJ.dir/Problems/10000/10872.cpp.obj CMakeFiles/BOJ.dir/Problems/10000/10870.cpp.obj CMakeFiles/BOJ.dir/Problems/20000/25501.cpp.obj
+build Problems_10000_10250.exe: CXX_EXECUTABLE_LINKER__Problems_10000_10250_Debug CMakeFiles/Problems_10000_10250.dir/Problems/10000/10250.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = CMakeFiles\BOJ.dir
+  OBJECT_DIR = CMakeFiles\Problems_10000_10250.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_FILE = BOJ.exe
-  TARGET_IMPLIB = libBOJ.dll.a
-  TARGET_PDB = BOJ.exe.dbg
+  TARGET_FILE = Problems_10000_10250.exe
+  TARGET_IMPLIB = libProblems_10000_10250.dll.a
+  TARGET_PDB = Problems_10000_10250.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Problems_10000_10870
+
+
+#############################################
+# Order-only phony target for Problems_10000_10870
+
+build cmake_object_order_depends_target_Problems_10000_10870: phony || CMakeFiles/Problems_10000_10870.dir
+
+build CMakeFiles/Problems_10000_10870.dir/Problems/10000/10870.cpp.obj: CXX_COMPILER__Problems_10000_10870_Debug C$:/Users/User/CLionProjects/BOJ/Problems/10000/10870.cpp || cmake_object_order_depends_target_Problems_10000_10870
+  DEP_FILE = CMakeFiles\Problems_10000_10870.dir\Problems\10000\10870.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  INCLUDES = -IC:/Users/User/CLionProjects/BOJ/. -IC:/Users/User/CLionProjects/BOJ/Problems
+  OBJECT_DIR = CMakeFiles\Problems_10000_10870.dir
+  OBJECT_FILE_DIR = CMakeFiles\Problems_10000_10870.dir\Problems\10000
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Problems_10000_10870
+
+
+#############################################
+# Link the executable Problems_10000_10870.exe
+
+build Problems_10000_10870.exe: CXX_EXECUTABLE_LINKER__Problems_10000_10870_Debug CMakeFiles/Problems_10000_10870.dir/Problems/10000/10870.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Problems_10000_10870.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Problems_10000_10870.exe
+  TARGET_IMPLIB = libProblems_10000_10870.dll.a
+  TARGET_PDB = Problems_10000_10870.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Problems_10000_10872
+
+
+#############################################
+# Order-only phony target for Problems_10000_10872
+
+build cmake_object_order_depends_target_Problems_10000_10872: phony || CMakeFiles/Problems_10000_10872.dir
+
+build CMakeFiles/Problems_10000_10872.dir/Problems/10000/10872.cpp.obj: CXX_COMPILER__Problems_10000_10872_Debug C$:/Users/User/CLionProjects/BOJ/Problems/10000/10872.cpp || cmake_object_order_depends_target_Problems_10000_10872
+  DEP_FILE = CMakeFiles\Problems_10000_10872.dir\Problems\10000\10872.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  INCLUDES = -IC:/Users/User/CLionProjects/BOJ/. -IC:/Users/User/CLionProjects/BOJ/Problems
+  OBJECT_DIR = CMakeFiles\Problems_10000_10872.dir
+  OBJECT_FILE_DIR = CMakeFiles\Problems_10000_10872.dir\Problems\10000
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Problems_10000_10872
+
+
+#############################################
+# Link the executable Problems_10000_10872.exe
+
+build Problems_10000_10872.exe: CXX_EXECUTABLE_LINKER__Problems_10000_10872_Debug CMakeFiles/Problems_10000_10872.dir/Problems/10000/10872.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Problems_10000_10872.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Problems_10000_10872.exe
+  TARGET_IMPLIB = libProblems_10000_10872.dll.a
+  TARGET_PDB = Problems_10000_10872.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Problems_10000_10989
+
+
+#############################################
+# Order-only phony target for Problems_10000_10989
+
+build cmake_object_order_depends_target_Problems_10000_10989: phony || CMakeFiles/Problems_10000_10989.dir
+
+build CMakeFiles/Problems_10000_10989.dir/Problems/10000/10989.cpp.obj: CXX_COMPILER__Problems_10000_10989_Debug C$:/Users/User/CLionProjects/BOJ/Problems/10000/10989.cpp || cmake_object_order_depends_target_Problems_10000_10989
+  DEP_FILE = CMakeFiles\Problems_10000_10989.dir\Problems\10000\10989.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  INCLUDES = -IC:/Users/User/CLionProjects/BOJ/. -IC:/Users/User/CLionProjects/BOJ/Problems
+  OBJECT_DIR = CMakeFiles\Problems_10000_10989.dir
+  OBJECT_FILE_DIR = CMakeFiles\Problems_10000_10989.dir\Problems\10000
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Problems_10000_10989
+
+
+#############################################
+# Link the executable Problems_10000_10989.exe
+
+build Problems_10000_10989.exe: CXX_EXECUTABLE_LINKER__Problems_10000_10989_Debug CMakeFiles/Problems_10000_10989.dir/Problems/10000/10989.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Problems_10000_10989.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Problems_10000_10989.exe
+  TARGET_IMPLIB = libProblems_10000_10989.dll.a
+  TARGET_PDB = Problems_10000_10989.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Problems_10000_11650
+
+
+#############################################
+# Order-only phony target for Problems_10000_11650
+
+build cmake_object_order_depends_target_Problems_10000_11650: phony || CMakeFiles/Problems_10000_11650.dir
+
+build CMakeFiles/Problems_10000_11650.dir/Problems/10000/11650.cpp.obj: CXX_COMPILER__Problems_10000_11650_Debug C$:/Users/User/CLionProjects/BOJ/Problems/10000/11650.cpp || cmake_object_order_depends_target_Problems_10000_11650
+  DEP_FILE = CMakeFiles\Problems_10000_11650.dir\Problems\10000\11650.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  INCLUDES = -IC:/Users/User/CLionProjects/BOJ/. -IC:/Users/User/CLionProjects/BOJ/Problems
+  OBJECT_DIR = CMakeFiles\Problems_10000_11650.dir
+  OBJECT_FILE_DIR = CMakeFiles\Problems_10000_11650.dir\Problems\10000
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Problems_10000_11650
+
+
+#############################################
+# Link the executable Problems_10000_11650.exe
+
+build Problems_10000_11650.exe: CXX_EXECUTABLE_LINKER__Problems_10000_11650_Debug CMakeFiles/Problems_10000_11650.dir/Problems/10000/11650.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Problems_10000_11650.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Problems_10000_11650.exe
+  TARGET_IMPLIB = libProblems_10000_11650.dll.a
+  TARGET_PDB = Problems_10000_11650.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Problems_00000_02750
+
+
+#############################################
+# Order-only phony target for Problems_00000_02750
+
+build cmake_object_order_depends_target_Problems_00000_02750: phony || CMakeFiles/Problems_00000_02750.dir
+
+build CMakeFiles/Problems_00000_02750.dir/Problems/00000/02750.cpp.obj: CXX_COMPILER__Problems_00000_02750_Debug C$:/Users/User/CLionProjects/BOJ/Problems/00000/02750.cpp || cmake_object_order_depends_target_Problems_00000_02750
+  DEP_FILE = CMakeFiles\Problems_00000_02750.dir\Problems\00000\02750.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  INCLUDES = -IC:/Users/User/CLionProjects/BOJ/. -IC:/Users/User/CLionProjects/BOJ/Problems
+  OBJECT_DIR = CMakeFiles\Problems_00000_02750.dir
+  OBJECT_FILE_DIR = CMakeFiles\Problems_00000_02750.dir\Problems\00000
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Problems_00000_02750
+
+
+#############################################
+# Link the executable Problems_00000_02750.exe
+
+build Problems_00000_02750.exe: CXX_EXECUTABLE_LINKER__Problems_00000_02750_Debug CMakeFiles/Problems_00000_02750.dir/Problems/00000/02750.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Problems_00000_02750.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Problems_00000_02750.exe
+  TARGET_IMPLIB = libProblems_00000_02750.dll.a
+  TARGET_PDB = Problems_00000_02750.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Problems_00000_01806
+
+
+#############################################
+# Order-only phony target for Problems_00000_01806
+
+build cmake_object_order_depends_target_Problems_00000_01806: phony || CMakeFiles/Problems_00000_01806.dir
+
+build CMakeFiles/Problems_00000_01806.dir/Problems/00000/01806.cpp.obj: CXX_COMPILER__Problems_00000_01806_Debug C$:/Users/User/CLionProjects/BOJ/Problems/00000/01806.cpp || cmake_object_order_depends_target_Problems_00000_01806
+  DEP_FILE = CMakeFiles\Problems_00000_01806.dir\Problems\00000\01806.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  INCLUDES = -IC:/Users/User/CLionProjects/BOJ/. -IC:/Users/User/CLionProjects/BOJ/Problems
+  OBJECT_DIR = CMakeFiles\Problems_00000_01806.dir
+  OBJECT_FILE_DIR = CMakeFiles\Problems_00000_01806.dir\Problems\00000
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Problems_00000_01806
+
+
+#############################################
+# Link the executable Problems_00000_01806.exe
+
+build Problems_00000_01806.exe: CXX_EXECUTABLE_LINKER__Problems_00000_01806_Debug CMakeFiles/Problems_00000_01806.dir/Problems/00000/01806.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Problems_00000_01806.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Problems_00000_01806.exe
+  TARGET_IMPLIB = libProblems_00000_01806.dll.a
+  TARGET_PDB = Problems_00000_01806.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Problems_00000_01427
+
+
+#############################################
+# Order-only phony target for Problems_00000_01427
+
+build cmake_object_order_depends_target_Problems_00000_01427: phony || CMakeFiles/Problems_00000_01427.dir
+
+build CMakeFiles/Problems_00000_01427.dir/Problems/00000/01427.cpp.obj: CXX_COMPILER__Problems_00000_01427_Debug C$:/Users/User/CLionProjects/BOJ/Problems/00000/01427.cpp || cmake_object_order_depends_target_Problems_00000_01427
+  DEP_FILE = CMakeFiles\Problems_00000_01427.dir\Problems\00000\01427.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  INCLUDES = -IC:/Users/User/CLionProjects/BOJ/. -IC:/Users/User/CLionProjects/BOJ/Problems
+  OBJECT_DIR = CMakeFiles\Problems_00000_01427.dir
+  OBJECT_FILE_DIR = CMakeFiles\Problems_00000_01427.dir\Problems\00000
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Problems_00000_01427
+
+
+#############################################
+# Link the executable Problems_00000_01427.exe
+
+build Problems_00000_01427.exe: CXX_EXECUTABLE_LINKER__Problems_00000_01427_Debug CMakeFiles/Problems_00000_01427.dir/Problems/00000/01427.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Problems_00000_01427.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Problems_00000_01427.exe
+  TARGET_IMPLIB = libProblems_00000_01427.dll.a
+  TARGET_PDB = Problems_00000_01427.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Problems_20000_25501
+
+
+#############################################
+# Order-only phony target for Problems_20000_25501
+
+build cmake_object_order_depends_target_Problems_20000_25501: phony || CMakeFiles/Problems_20000_25501.dir
+
+build CMakeFiles/Problems_20000_25501.dir/Problems/20000/25501.cpp.obj: CXX_COMPILER__Problems_20000_25501_Debug C$:/Users/User/CLionProjects/BOJ/Problems/20000/25501.cpp || cmake_object_order_depends_target_Problems_20000_25501
+  DEP_FILE = CMakeFiles\Problems_20000_25501.dir\Problems\20000\25501.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  INCLUDES = -IC:/Users/User/CLionProjects/BOJ/. -IC:/Users/User/CLionProjects/BOJ/Problems
+  OBJECT_DIR = CMakeFiles\Problems_20000_25501.dir
+  OBJECT_FILE_DIR = CMakeFiles\Problems_20000_25501.dir\Problems\20000
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Problems_20000_25501
+
+
+#############################################
+# Link the executable Problems_20000_25501.exe
+
+build Problems_20000_25501.exe: CXX_EXECUTABLE_LINKER__Problems_20000_25501_Debug CMakeFiles/Problems_20000_25501.dir/Problems/20000/25501.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Problems_20000_25501.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Problems_20000_25501.exe
+  TARGET_IMPLIB = libProblems_20000_25501.dll.a
+  TARGET_PDB = Problems_20000_25501.exe.dbg
 
 
 #############################################
@@ -149,7 +372,23 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 # =============================================================================
 # Target aliases.
 
-build BOJ: phony BOJ.exe
+build Problems_00000_01427: phony Problems_00000_01427.exe
+
+build Problems_00000_01806: phony Problems_00000_01806.exe
+
+build Problems_00000_02750: phony Problems_00000_02750.exe
+
+build Problems_10000_10250: phony Problems_10000_10250.exe
+
+build Problems_10000_10870: phony Problems_10000_10870.exe
+
+build Problems_10000_10872: phony Problems_10000_10872.exe
+
+build Problems_10000_10989: phony Problems_10000_10989.exe
+
+build Problems_10000_11650: phony Problems_10000_11650.exe
+
+build Problems_20000_25501: phony Problems_20000_25501.exe
 
 # =============================================================================
 # Folder targets.
@@ -159,7 +398,7 @@ build BOJ: phony BOJ.exe
 #############################################
 # Folder: C:/Users/User/CLionProjects/BOJ/cmake-build-debug
 
-build all: phony BOJ.exe
+build all: phony Problems_10000_10250.exe Problems_10000_10870.exe Problems_10000_10872.exe Problems_10000_10989.exe Problems_10000_11650.exe Problems_00000_02750.exe Problems_00000_01806.exe Problems_00000_01427.exe Problems_20000_25501.exe
 
 # =============================================================================
 # Built-in targets
