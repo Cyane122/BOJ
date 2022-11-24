@@ -41,337 +41,257 @@ include CMakeFiles/rules.ninja
 
 cmake_ninja_workdir = C$:/Users/User/CLionProjects/BOJ/cmake-build-debug/
 # =============================================================================
-# Object build statements for EXECUTABLE target Problems_10000_10250
+# Object build statements for EXECUTABLE target Problems_10000_15650
 
 
 #############################################
-# Order-only phony target for Problems_10000_10250
+# Order-only phony target for Problems_10000_15650
 
-build cmake_object_order_depends_target_Problems_10000_10250: phony || CMakeFiles/Problems_10000_10250.dir
+build cmake_object_order_depends_target_Problems_10000_15650: phony || CMakeFiles/Problems_10000_15650.dir
 
-build CMakeFiles/Problems_10000_10250.dir/Problems/10000/10250.cpp.obj: CXX_COMPILER__Problems_10000_10250_Debug C$:/Users/User/CLionProjects/BOJ/Problems/10000/10250.cpp || cmake_object_order_depends_target_Problems_10000_10250
-  DEP_FILE = CMakeFiles\Problems_10000_10250.dir\Problems\10000\10250.cpp.obj.d
+build CMakeFiles/Problems_10000_15650.dir/Problems/10000/15650.cpp.obj: CXX_COMPILER__Problems_10000_15650_Debug C$:/Users/User/CLionProjects/BOJ/Problems/10000/15650.cpp || cmake_object_order_depends_target_Problems_10000_15650
+  DEP_FILE = CMakeFiles\Problems_10000_15650.dir\Problems\10000\15650.cpp.obj.d
   FLAGS = -g -std=gnu++14
   INCLUDES = -IC:/Users/User/CLionProjects/BOJ/. -IC:/Users/User/CLionProjects/BOJ/Problems
-  OBJECT_DIR = CMakeFiles\Problems_10000_10250.dir
-  OBJECT_FILE_DIR = CMakeFiles\Problems_10000_10250.dir\Problems\10000
-  TARGET_COMPILE_PDB = CMakeFiles\Problems_10000_10250.dir\
-  TARGET_PDB = Problems_10000_10250.pdb
+  OBJECT_DIR = CMakeFiles\Problems_10000_15650.dir
+  OBJECT_FILE_DIR = CMakeFiles\Problems_10000_15650.dir\Problems\10000
 
-
-# =============================================================================
-# Link build statements for EXECUTABLE target Problems_10000_10250
-
-
-#############################################
-# Link the executable Problems_10000_10250.exe
-
-build Problems_10000_10250.exe: CXX_EXECUTABLE_LINKER__Problems_10000_10250_Debug CMakeFiles/Problems_10000_10250.dir/Problems/10000/10250.cpp.obj
-  FLAGS = -g
-  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = CMakeFiles\Problems_10000_10250.dir
-  POST_BUILD = cd .
-  PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\Problems_10000_10250.dir\
-  TARGET_FILE = Problems_10000_10250.exe
-  TARGET_IMPLIB = libProblems_10000_10250.dll.a
-  TARGET_PDB = Problems_10000_10250.pdb
-
-# =============================================================================
-# Object build statements for EXECUTABLE target Problems_10000_10870
-
-
-#############################################
-# Order-only phony target for Problems_10000_10870
-
-build cmake_object_order_depends_target_Problems_10000_10870: phony || CMakeFiles/Problems_10000_10870.dir
-
-build CMakeFiles/Problems_10000_10870.dir/Problems/10000/10870.cpp.obj: CXX_COMPILER__Problems_10000_10870_Debug C$:/Users/User/CLionProjects/BOJ/Problems/10000/10870.cpp || cmake_object_order_depends_target_Problems_10000_10870
-  DEP_FILE = CMakeFiles\Problems_10000_10870.dir\Problems\10000\10870.cpp.obj.d
+build CMakeFiles/Problems_10000_15650.dir/Problems/10000/15651.cpp.obj: CXX_COMPILER__Problems_10000_15650_Debug C$:/Users/User/CLionProjects/BOJ/Problems/10000/15651.cpp || cmake_object_order_depends_target_Problems_10000_15650
+  DEP_FILE = CMakeFiles\Problems_10000_15650.dir\Problems\10000\15651.cpp.obj.d
   FLAGS = -g -std=gnu++14
   INCLUDES = -IC:/Users/User/CLionProjects/BOJ/. -IC:/Users/User/CLionProjects/BOJ/Problems
-  OBJECT_DIR = CMakeFiles\Problems_10000_10870.dir
-  OBJECT_FILE_DIR = CMakeFiles\Problems_10000_10870.dir\Problems\10000
-  TARGET_COMPILE_PDB = CMakeFiles\Problems_10000_10870.dir\
-  TARGET_PDB = Problems_10000_10870.pdb
+  OBJECT_DIR = CMakeFiles\Problems_10000_15650.dir
+  OBJECT_FILE_DIR = CMakeFiles\Problems_10000_15650.dir\Problems\10000
 
-
-# =============================================================================
-# Link build statements for EXECUTABLE target Problems_10000_10870
-
-
-#############################################
-# Link the executable Problems_10000_10870.exe
-
-build Problems_10000_10870.exe: CXX_EXECUTABLE_LINKER__Problems_10000_10870_Debug CMakeFiles/Problems_10000_10870.dir/Problems/10000/10870.cpp.obj
-  FLAGS = -g
-  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = CMakeFiles\Problems_10000_10870.dir
-  POST_BUILD = cd .
-  PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\Problems_10000_10870.dir\
-  TARGET_FILE = Problems_10000_10870.exe
-  TARGET_IMPLIB = libProblems_10000_10870.dll.a
-  TARGET_PDB = Problems_10000_10870.pdb
-
-# =============================================================================
-# Object build statements for EXECUTABLE target Problems_10000_10872
-
-
-#############################################
-# Order-only phony target for Problems_10000_10872
-
-build cmake_object_order_depends_target_Problems_10000_10872: phony || CMakeFiles/Problems_10000_10872.dir
-
-build CMakeFiles/Problems_10000_10872.dir/Problems/10000/10872.cpp.obj: CXX_COMPILER__Problems_10000_10872_Debug C$:/Users/User/CLionProjects/BOJ/Problems/10000/10872.cpp || cmake_object_order_depends_target_Problems_10000_10872
-  DEP_FILE = CMakeFiles\Problems_10000_10872.dir\Problems\10000\10872.cpp.obj.d
+build CMakeFiles/Problems_10000_15650.dir/Problems/10000/15652.cpp.obj: CXX_COMPILER__Problems_10000_15650_Debug C$:/Users/User/CLionProjects/BOJ/Problems/10000/15652.cpp || cmake_object_order_depends_target_Problems_10000_15650
+  DEP_FILE = CMakeFiles\Problems_10000_15650.dir\Problems\10000\15652.cpp.obj.d
   FLAGS = -g -std=gnu++14
   INCLUDES = -IC:/Users/User/CLionProjects/BOJ/. -IC:/Users/User/CLionProjects/BOJ/Problems
-  OBJECT_DIR = CMakeFiles\Problems_10000_10872.dir
-  OBJECT_FILE_DIR = CMakeFiles\Problems_10000_10872.dir\Problems\10000
-  TARGET_COMPILE_PDB = CMakeFiles\Problems_10000_10872.dir\
-  TARGET_PDB = Problems_10000_10872.pdb
+  OBJECT_DIR = CMakeFiles\Problems_10000_15650.dir
+  OBJECT_FILE_DIR = CMakeFiles\Problems_10000_15650.dir\Problems\10000
 
-
-# =============================================================================
-# Link build statements for EXECUTABLE target Problems_10000_10872
-
-
-#############################################
-# Link the executable Problems_10000_10872.exe
-
-build Problems_10000_10872.exe: CXX_EXECUTABLE_LINKER__Problems_10000_10872_Debug CMakeFiles/Problems_10000_10872.dir/Problems/10000/10872.cpp.obj
-  FLAGS = -g
-  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = CMakeFiles\Problems_10000_10872.dir
-  POST_BUILD = cd .
-  PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\Problems_10000_10872.dir\
-  TARGET_FILE = Problems_10000_10872.exe
-  TARGET_IMPLIB = libProblems_10000_10872.dll.a
-  TARGET_PDB = Problems_10000_10872.pdb
-
-# =============================================================================
-# Object build statements for EXECUTABLE target Problems_10000_10989
-
-
-#############################################
-# Order-only phony target for Problems_10000_10989
-
-build cmake_object_order_depends_target_Problems_10000_10989: phony || CMakeFiles/Problems_10000_10989.dir
-
-build CMakeFiles/Problems_10000_10989.dir/Problems/10000/10989.cpp.obj: CXX_COMPILER__Problems_10000_10989_Debug C$:/Users/User/CLionProjects/BOJ/Problems/10000/10989.cpp || cmake_object_order_depends_target_Problems_10000_10989
-  DEP_FILE = CMakeFiles\Problems_10000_10989.dir\Problems\10000\10989.cpp.obj.d
+build CMakeFiles/Problems_10000_15650.dir/Problems/00000/01764.cpp.obj: CXX_COMPILER__Problems_10000_15650_Debug C$:/Users/User/CLionProjects/BOJ/Problems/00000/01764.cpp || cmake_object_order_depends_target_Problems_10000_15650
+  DEP_FILE = CMakeFiles\Problems_10000_15650.dir\Problems\00000\01764.cpp.obj.d
   FLAGS = -g -std=gnu++14
   INCLUDES = -IC:/Users/User/CLionProjects/BOJ/. -IC:/Users/User/CLionProjects/BOJ/Problems
-  OBJECT_DIR = CMakeFiles\Problems_10000_10989.dir
-  OBJECT_FILE_DIR = CMakeFiles\Problems_10000_10989.dir\Problems\10000
-  TARGET_COMPILE_PDB = CMakeFiles\Problems_10000_10989.dir\
-  TARGET_PDB = Problems_10000_10989.pdb
+  OBJECT_DIR = CMakeFiles\Problems_10000_15650.dir
+  OBJECT_FILE_DIR = CMakeFiles\Problems_10000_15650.dir\Problems\00000
 
-
-# =============================================================================
-# Link build statements for EXECUTABLE target Problems_10000_10989
-
-
-#############################################
-# Link the executable Problems_10000_10989.exe
-
-build Problems_10000_10989.exe: CXX_EXECUTABLE_LINKER__Problems_10000_10989_Debug CMakeFiles/Problems_10000_10989.dir/Problems/10000/10989.cpp.obj
-  FLAGS = -g
-  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = CMakeFiles\Problems_10000_10989.dir
-  POST_BUILD = cd .
-  PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\Problems_10000_10989.dir\
-  TARGET_FILE = Problems_10000_10989.exe
-  TARGET_IMPLIB = libProblems_10000_10989.dll.a
-  TARGET_PDB = Problems_10000_10989.pdb
-
-# =============================================================================
-# Object build statements for EXECUTABLE target Problems_10000_11650
-
-
-#############################################
-# Order-only phony target for Problems_10000_11650
-
-build cmake_object_order_depends_target_Problems_10000_11650: phony || CMakeFiles/Problems_10000_11650.dir
-
-build CMakeFiles/Problems_10000_11650.dir/Problems/10000/11650.cpp.obj: CXX_COMPILER__Problems_10000_11650_Debug C$:/Users/User/CLionProjects/BOJ/Problems/10000/11650.cpp || cmake_object_order_depends_target_Problems_10000_11650
-  DEP_FILE = CMakeFiles\Problems_10000_11650.dir\Problems\10000\11650.cpp.obj.d
+build CMakeFiles/Problems_10000_15650.dir/Problems/00000/05086.cpp.obj: CXX_COMPILER__Problems_10000_15650_Debug C$:/Users/User/CLionProjects/BOJ/Problems/00000/05086.cpp || cmake_object_order_depends_target_Problems_10000_15650
+  DEP_FILE = CMakeFiles\Problems_10000_15650.dir\Problems\00000\05086.cpp.obj.d
   FLAGS = -g -std=gnu++14
   INCLUDES = -IC:/Users/User/CLionProjects/BOJ/. -IC:/Users/User/CLionProjects/BOJ/Problems
-  OBJECT_DIR = CMakeFiles\Problems_10000_11650.dir
-  OBJECT_FILE_DIR = CMakeFiles\Problems_10000_11650.dir\Problems\10000
-  TARGET_COMPILE_PDB = CMakeFiles\Problems_10000_11650.dir\
-  TARGET_PDB = Problems_10000_11650.pdb
+  OBJECT_DIR = CMakeFiles\Problems_10000_15650.dir
+  OBJECT_FILE_DIR = CMakeFiles\Problems_10000_15650.dir\Problems\00000
 
-
-# =============================================================================
-# Link build statements for EXECUTABLE target Problems_10000_11650
-
-
-#############################################
-# Link the executable Problems_10000_11650.exe
-
-build Problems_10000_11650.exe: CXX_EXECUTABLE_LINKER__Problems_10000_11650_Debug CMakeFiles/Problems_10000_11650.dir/Problems/10000/11650.cpp.obj
-  FLAGS = -g
-  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = CMakeFiles\Problems_10000_11650.dir
-  POST_BUILD = cd .
-  PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\Problems_10000_11650.dir\
-  TARGET_FILE = Problems_10000_11650.exe
-  TARGET_IMPLIB = libProblems_10000_11650.dll.a
-  TARGET_PDB = Problems_10000_11650.pdb
-
-# =============================================================================
-# Object build statements for EXECUTABLE target Problems_00000_02750
-
-
-#############################################
-# Order-only phony target for Problems_00000_02750
-
-build cmake_object_order_depends_target_Problems_00000_02750: phony || CMakeFiles/Problems_00000_02750.dir
-
-build CMakeFiles/Problems_00000_02750.dir/Problems/00000/02750.cpp.obj: CXX_COMPILER__Problems_00000_02750_Debug C$:/Users/User/CLionProjects/BOJ/Problems/00000/02750.cpp || cmake_object_order_depends_target_Problems_00000_02750
-  DEP_FILE = CMakeFiles\Problems_00000_02750.dir\Problems\00000\02750.cpp.obj.d
+build CMakeFiles/Problems_10000_15650.dir/Problems/00000/01037.cpp.obj: CXX_COMPILER__Problems_10000_15650_Debug C$:/Users/User/CLionProjects/BOJ/Problems/00000/01037.cpp || cmake_object_order_depends_target_Problems_10000_15650
+  DEP_FILE = CMakeFiles\Problems_10000_15650.dir\Problems\00000\01037.cpp.obj.d
   FLAGS = -g -std=gnu++14
   INCLUDES = -IC:/Users/User/CLionProjects/BOJ/. -IC:/Users/User/CLionProjects/BOJ/Problems
-  OBJECT_DIR = CMakeFiles\Problems_00000_02750.dir
-  OBJECT_FILE_DIR = CMakeFiles\Problems_00000_02750.dir\Problems\00000
-  TARGET_COMPILE_PDB = CMakeFiles\Problems_00000_02750.dir\
-  TARGET_PDB = Problems_00000_02750.pdb
+  OBJECT_DIR = CMakeFiles\Problems_10000_15650.dir
+  OBJECT_FILE_DIR = CMakeFiles\Problems_10000_15650.dir\Problems\00000
 
-
-# =============================================================================
-# Link build statements for EXECUTABLE target Problems_00000_02750
-
-
-#############################################
-# Link the executable Problems_00000_02750.exe
-
-build Problems_00000_02750.exe: CXX_EXECUTABLE_LINKER__Problems_00000_02750_Debug CMakeFiles/Problems_00000_02750.dir/Problems/00000/02750.cpp.obj
-  FLAGS = -g
-  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = CMakeFiles\Problems_00000_02750.dir
-  POST_BUILD = cd .
-  PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\Problems_00000_02750.dir\
-  TARGET_FILE = Problems_00000_02750.exe
-  TARGET_IMPLIB = libProblems_00000_02750.dll.a
-  TARGET_PDB = Problems_00000_02750.pdb
-
-# =============================================================================
-# Object build statements for EXECUTABLE target Problems_00000_01806
-
-
-#############################################
-# Order-only phony target for Problems_00000_01806
-
-build cmake_object_order_depends_target_Problems_00000_01806: phony || CMakeFiles/Problems_00000_01806.dir
-
-build CMakeFiles/Problems_00000_01806.dir/Problems/00000/01806.cpp.obj: CXX_COMPILER__Problems_00000_01806_Debug C$:/Users/User/CLionProjects/BOJ/Problems/00000/01806.cpp || cmake_object_order_depends_target_Problems_00000_01806
-  DEP_FILE = CMakeFiles\Problems_00000_01806.dir\Problems\00000\01806.cpp.obj.d
+build CMakeFiles/Problems_10000_15650.dir/Problems/10000/11050.cpp.obj: CXX_COMPILER__Problems_10000_15650_Debug C$:/Users/User/CLionProjects/BOJ/Problems/10000/11050.cpp || cmake_object_order_depends_target_Problems_10000_15650
+  DEP_FILE = CMakeFiles\Problems_10000_15650.dir\Problems\10000\11050.cpp.obj.d
   FLAGS = -g -std=gnu++14
   INCLUDES = -IC:/Users/User/CLionProjects/BOJ/. -IC:/Users/User/CLionProjects/BOJ/Problems
-  OBJECT_DIR = CMakeFiles\Problems_00000_01806.dir
-  OBJECT_FILE_DIR = CMakeFiles\Problems_00000_01806.dir\Problems\00000
-  TARGET_COMPILE_PDB = CMakeFiles\Problems_00000_01806.dir\
-  TARGET_PDB = Problems_00000_01806.pdb
+  OBJECT_DIR = CMakeFiles\Problems_10000_15650.dir
+  OBJECT_FILE_DIR = CMakeFiles\Problems_10000_15650.dir\Problems\10000
 
-
-# =============================================================================
-# Link build statements for EXECUTABLE target Problems_00000_01806
-
-
-#############################################
-# Link the executable Problems_00000_01806.exe
-
-build Problems_00000_01806.exe: CXX_EXECUTABLE_LINKER__Problems_00000_01806_Debug CMakeFiles/Problems_00000_01806.dir/Problems/00000/01806.cpp.obj
-  FLAGS = -g
-  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = CMakeFiles\Problems_00000_01806.dir
-  POST_BUILD = cd .
-  PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\Problems_00000_01806.dir\
-  TARGET_FILE = Problems_00000_01806.exe
-  TARGET_IMPLIB = libProblems_00000_01806.dll.a
-  TARGET_PDB = Problems_00000_01806.pdb
-
-# =============================================================================
-# Object build statements for EXECUTABLE target Problems_00000_01427
-
-
-#############################################
-# Order-only phony target for Problems_00000_01427
-
-build cmake_object_order_depends_target_Problems_00000_01427: phony || CMakeFiles/Problems_00000_01427.dir
-
-build CMakeFiles/Problems_00000_01427.dir/Problems/00000/01427.cpp.obj: CXX_COMPILER__Problems_00000_01427_Debug C$:/Users/User/CLionProjects/BOJ/Problems/00000/01427.cpp || cmake_object_order_depends_target_Problems_00000_01427
-  DEP_FILE = CMakeFiles\Problems_00000_01427.dir\Problems\00000\01427.cpp.obj.d
+build CMakeFiles/Problems_10000_15650.dir/Problems/10000/11051.cpp.obj: CXX_COMPILER__Problems_10000_15650_Debug C$:/Users/User/CLionProjects/BOJ/Problems/10000/11051.cpp || cmake_object_order_depends_target_Problems_10000_15650
+  DEP_FILE = CMakeFiles\Problems_10000_15650.dir\Problems\10000\11051.cpp.obj.d
   FLAGS = -g -std=gnu++14
   INCLUDES = -IC:/Users/User/CLionProjects/BOJ/. -IC:/Users/User/CLionProjects/BOJ/Problems
-  OBJECT_DIR = CMakeFiles\Problems_00000_01427.dir
-  OBJECT_FILE_DIR = CMakeFiles\Problems_00000_01427.dir\Problems\00000
-  TARGET_COMPILE_PDB = CMakeFiles\Problems_00000_01427.dir\
-  TARGET_PDB = Problems_00000_01427.pdb
+  OBJECT_DIR = CMakeFiles\Problems_10000_15650.dir
+  OBJECT_FILE_DIR = CMakeFiles\Problems_10000_15650.dir\Problems\10000
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target Problems_00000_01427
+# Link build statements for EXECUTABLE target Problems_10000_15650
 
 
 #############################################
-# Link the executable Problems_00000_01427.exe
+# Link the executable Problems_10000_15650.exe
 
-build Problems_00000_01427.exe: CXX_EXECUTABLE_LINKER__Problems_00000_01427_Debug CMakeFiles/Problems_00000_01427.dir/Problems/00000/01427.cpp.obj
+build Problems_10000_15650.exe: CXX_EXECUTABLE_LINKER__Problems_10000_15650_Debug CMakeFiles/Problems_10000_15650.dir/Problems/10000/15650.cpp.obj CMakeFiles/Problems_10000_15650.dir/Problems/10000/15651.cpp.obj CMakeFiles/Problems_10000_15650.dir/Problems/10000/15652.cpp.obj CMakeFiles/Problems_10000_15650.dir/Problems/00000/01764.cpp.obj CMakeFiles/Problems_10000_15650.dir/Problems/00000/05086.cpp.obj CMakeFiles/Problems_10000_15650.dir/Problems/00000/01037.cpp.obj CMakeFiles/Problems_10000_15650.dir/Problems/10000/11050.cpp.obj CMakeFiles/Problems_10000_15650.dir/Problems/10000/11051.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = CMakeFiles\Problems_00000_01427.dir
+  OBJECT_DIR = CMakeFiles\Problems_10000_15650.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\Problems_00000_01427.dir\
-  TARGET_FILE = Problems_00000_01427.exe
-  TARGET_IMPLIB = libProblems_00000_01427.dll.a
-  TARGET_PDB = Problems_00000_01427.pdb
+  TARGET_FILE = Problems_10000_15650.exe
+  TARGET_IMPLIB = libProblems_10000_15650.dll.a
+  TARGET_PDB = Problems_10000_15650.exe.dbg
 
 # =============================================================================
-# Object build statements for EXECUTABLE target Problems_20000_25501
+# Object build statements for EXECUTABLE target Problems_10000_15651
 
 
 #############################################
-# Order-only phony target for Problems_20000_25501
+# Order-only phony target for Problems_10000_15651
 
-build cmake_object_order_depends_target_Problems_20000_25501: phony || CMakeFiles/Problems_20000_25501.dir
+build cmake_object_order_depends_target_Problems_10000_15651: phony || CMakeFiles/Problems_10000_15651.dir
 
-build CMakeFiles/Problems_20000_25501.dir/Problems/20000/25501.cpp.obj: CXX_COMPILER__Problems_20000_25501_Debug C$:/Users/User/CLionProjects/BOJ/Problems/20000/25501.cpp || cmake_object_order_depends_target_Problems_20000_25501
-  DEP_FILE = CMakeFiles\Problems_20000_25501.dir\Problems\20000\25501.cpp.obj.d
+build CMakeFiles/Problems_10000_15651.dir/Problems/10000/15651.cpp.obj: CXX_COMPILER__Problems_10000_15651_Debug C$:/Users/User/CLionProjects/BOJ/Problems/10000/15651.cpp || cmake_object_order_depends_target_Problems_10000_15651
+  DEP_FILE = CMakeFiles\Problems_10000_15651.dir\Problems\10000\15651.cpp.obj.d
   FLAGS = -g -std=gnu++14
   INCLUDES = -IC:/Users/User/CLionProjects/BOJ/. -IC:/Users/User/CLionProjects/BOJ/Problems
-  OBJECT_DIR = CMakeFiles\Problems_20000_25501.dir
-  OBJECT_FILE_DIR = CMakeFiles\Problems_20000_25501.dir\Problems\20000
-  TARGET_COMPILE_PDB = CMakeFiles\Problems_20000_25501.dir\
-  TARGET_PDB = Problems_20000_25501.pdb
+  OBJECT_DIR = CMakeFiles\Problems_10000_15651.dir
+  OBJECT_FILE_DIR = CMakeFiles\Problems_10000_15651.dir\Problems\10000
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target Problems_20000_25501
+# Link build statements for EXECUTABLE target Problems_10000_15651
 
 
 #############################################
-# Link the executable Problems_20000_25501.exe
+# Link the executable Problems_10000_15651.exe
 
-build Problems_20000_25501.exe: CXX_EXECUTABLE_LINKER__Problems_20000_25501_Debug CMakeFiles/Problems_20000_25501.dir/Problems/20000/25501.cpp.obj
+build Problems_10000_15651.exe: CXX_EXECUTABLE_LINKER__Problems_10000_15651_Debug CMakeFiles/Problems_10000_15651.dir/Problems/10000/15651.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = CMakeFiles\Problems_20000_25501.dir
+  OBJECT_DIR = CMakeFiles\Problems_10000_15651.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\Problems_20000_25501.dir\
-  TARGET_FILE = Problems_20000_25501.exe
-  TARGET_IMPLIB = libProblems_20000_25501.dll.a
-  TARGET_PDB = Problems_20000_25501.pdb
+  TARGET_FILE = Problems_10000_15651.exe
+  TARGET_IMPLIB = libProblems_10000_15651.dll.a
+  TARGET_PDB = Problems_10000_15651.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Problems_10000_15652
+
+
+#############################################
+# Order-only phony target for Problems_10000_15652
+
+build cmake_object_order_depends_target_Problems_10000_15652: phony || CMakeFiles/Problems_10000_15652.dir
+
+build CMakeFiles/Problems_10000_15652.dir/Problems/10000/15652.cpp.obj: CXX_COMPILER__Problems_10000_15652_Debug C$:/Users/User/CLionProjects/BOJ/Problems/10000/15652.cpp || cmake_object_order_depends_target_Problems_10000_15652
+  DEP_FILE = CMakeFiles\Problems_10000_15652.dir\Problems\10000\15652.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  INCLUDES = -IC:/Users/User/CLionProjects/BOJ/. -IC:/Users/User/CLionProjects/BOJ/Problems
+  OBJECT_DIR = CMakeFiles\Problems_10000_15652.dir
+  OBJECT_FILE_DIR = CMakeFiles\Problems_10000_15652.dir\Problems\10000
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Problems_10000_15652
+
+
+#############################################
+# Link the executable Problems_10000_15652.exe
+
+build Problems_10000_15652.exe: CXX_EXECUTABLE_LINKER__Problems_10000_15652_Debug CMakeFiles/Problems_10000_15652.dir/Problems/10000/15652.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Problems_10000_15652.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Problems_10000_15652.exe
+  TARGET_IMPLIB = libProblems_10000_15652.dll.a
+  TARGET_PDB = Problems_10000_15652.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Problems_00000_05086
+
+
+#############################################
+# Order-only phony target for Problems_00000_05086
+
+build cmake_object_order_depends_target_Problems_00000_05086: phony || CMakeFiles/Problems_00000_05086.dir
+
+build CMakeFiles/Problems_00000_05086.dir/Problems/00000/05086.cpp.obj: CXX_COMPILER__Problems_00000_05086_Debug C$:/Users/User/CLionProjects/BOJ/Problems/00000/05086.cpp || cmake_object_order_depends_target_Problems_00000_05086
+  DEP_FILE = CMakeFiles\Problems_00000_05086.dir\Problems\00000\05086.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  INCLUDES = -IC:/Users/User/CLionProjects/BOJ/. -IC:/Users/User/CLionProjects/BOJ/Problems
+  OBJECT_DIR = CMakeFiles\Problems_00000_05086.dir
+  OBJECT_FILE_DIR = CMakeFiles\Problems_00000_05086.dir\Problems\00000
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Problems_00000_05086
+
+
+#############################################
+# Link the executable Problems_00000_05086.exe
+
+build Problems_00000_05086.exe: CXX_EXECUTABLE_LINKER__Problems_00000_05086_Debug CMakeFiles/Problems_00000_05086.dir/Problems/00000/05086.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Problems_00000_05086.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Problems_00000_05086.exe
+  TARGET_IMPLIB = libProblems_00000_05086.dll.a
+  TARGET_PDB = Problems_00000_05086.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Problems_00000_01037
+
+
+#############################################
+# Order-only phony target for Problems_00000_01037
+
+build cmake_object_order_depends_target_Problems_00000_01037: phony || CMakeFiles/Problems_00000_01037.dir
+
+build CMakeFiles/Problems_00000_01037.dir/Problems/00000/01037.cpp.obj: CXX_COMPILER__Problems_00000_01037_Debug C$:/Users/User/CLionProjects/BOJ/Problems/00000/01037.cpp || cmake_object_order_depends_target_Problems_00000_01037
+  DEP_FILE = CMakeFiles\Problems_00000_01037.dir\Problems\00000\01037.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  INCLUDES = -IC:/Users/User/CLionProjects/BOJ/. -IC:/Users/User/CLionProjects/BOJ/Problems
+  OBJECT_DIR = CMakeFiles\Problems_00000_01037.dir
+  OBJECT_FILE_DIR = CMakeFiles\Problems_00000_01037.dir\Problems\00000
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Problems_00000_01037
+
+
+#############################################
+# Link the executable Problems_00000_01037.exe
+
+build Problems_00000_01037.exe: CXX_EXECUTABLE_LINKER__Problems_00000_01037_Debug CMakeFiles/Problems_00000_01037.dir/Problems/00000/01037.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Problems_00000_01037.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Problems_00000_01037.exe
+  TARGET_IMPLIB = libProblems_00000_01037.dll.a
+  TARGET_PDB = Problems_00000_01037.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Problems_10000_11050
+
+
+#############################################
+# Order-only phony target for Problems_10000_11050
+
+build cmake_object_order_depends_target_Problems_10000_11050: phony || CMakeFiles/Problems_10000_11050.dir
+
+build CMakeFiles/Problems_10000_11050.dir/Problems/10000/11050.cpp.obj: CXX_COMPILER__Problems_10000_11050_Debug C$:/Users/User/CLionProjects/BOJ/Problems/10000/11050.cpp || cmake_object_order_depends_target_Problems_10000_11050
+  DEP_FILE = CMakeFiles\Problems_10000_11050.dir\Problems\10000\11050.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  INCLUDES = -IC:/Users/User/CLionProjects/BOJ/. -IC:/Users/User/CLionProjects/BOJ/Problems
+  OBJECT_DIR = CMakeFiles\Problems_10000_11050.dir
+  OBJECT_FILE_DIR = CMakeFiles\Problems_10000_11050.dir\Problems\10000
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Problems_10000_11050
+
+
+#############################################
+# Link the executable Problems_10000_11050.exe
+
+build Problems_10000_11050.exe: CXX_EXECUTABLE_LINKER__Problems_10000_11050_Debug CMakeFiles/Problems_10000_11050.dir/Problems/10000/11050.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Problems_10000_11050.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Problems_10000_11050.exe
+  TARGET_IMPLIB = libProblems_10000_11050.dll.a
+  TARGET_PDB = Problems_10000_11050.exe.dbg
 
 
 #############################################
@@ -399,23 +319,17 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 # =============================================================================
 # Target aliases.
 
-build Problems_00000_01427: phony Problems_00000_01427.exe
+build Problems_00000_01037: phony Problems_00000_01037.exe
 
-build Problems_00000_01806: phony Problems_00000_01806.exe
+build Problems_00000_05086: phony Problems_00000_05086.exe
 
-build Problems_00000_02750: phony Problems_00000_02750.exe
+build Problems_10000_11050: phony Problems_10000_11050.exe
 
-build Problems_10000_10250: phony Problems_10000_10250.exe
+build Problems_10000_15650: phony Problems_10000_15650.exe
 
-build Problems_10000_10870: phony Problems_10000_10870.exe
+build Problems_10000_15651: phony Problems_10000_15651.exe
 
-build Problems_10000_10872: phony Problems_10000_10872.exe
-
-build Problems_10000_10989: phony Problems_10000_10989.exe
-
-build Problems_10000_11650: phony Problems_10000_11650.exe
-
-build Problems_20000_25501: phony Problems_20000_25501.exe
+build Problems_10000_15652: phony Problems_10000_15652.exe
 
 # =============================================================================
 # Folder targets.
@@ -425,7 +339,7 @@ build Problems_20000_25501: phony Problems_20000_25501.exe
 #############################################
 # Folder: C:/Users/User/CLionProjects/BOJ/cmake-build-debug
 
-build all: phony Problems_10000_10250.exe Problems_10000_10870.exe Problems_10000_10872.exe Problems_10000_10989.exe Problems_10000_11650.exe Problems_00000_02750.exe Problems_00000_01806.exe Problems_00000_01427.exe Problems_20000_25501.exe
+build all: phony Problems_10000_15650.exe Problems_10000_15651.exe Problems_10000_15652.exe Problems_00000_05086.exe Problems_00000_01037.exe Problems_10000_11050.exe
 
 # =============================================================================
 # Built-in targets
@@ -434,14 +348,14 @@ build all: phony Problems_10000_10250.exe Problems_10000_10870.exe Problems_1000
 #############################################
 # Re-run CMake if any of its inputs changed.
 
-build build.ninja: RERUN_CMAKE | ../CMakeLists.txt C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeCCompiler.cmake.in C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeCCompilerABI.c C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeCInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeCXXCompiler.cmake.in C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeCXXCompilerABI.cpp C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeCXXInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeCommonLanguageInclude.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeCompilerIdDetection.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeDetermineCCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeDetermineCXXCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeDetermineCompileFeatures.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeDetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeDetermineCompilerABI.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeDetermineCompilerId.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeDetermineRCCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeDetermineSystem.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeFindBinUtils.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeGenericSystem.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeInitializeConfigs.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeLanguageInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeParseImplicitIncludeInfo.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeParseImplicitLinkInfo.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeParseLibraryArchitecture.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeRCCompiler.cmake.in C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeRCInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeSystem.cmake.in C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeSystemSpecificInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeSystemSpecificInitialize.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeTestCCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeTestCXXCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeTestCompilerCommon.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeTestRCCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/ADSP-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/ARMCC-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/ARMClang-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/AppleClang-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/Borland-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/Bruce-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/Clang-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/Clang-DetermineCompilerInternal.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/Comeau-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/Compaq-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/Compaq-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/Cray-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/Embarcadero-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/Fujitsu-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/GHS-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/GNU-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/GNU-C.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/GNU-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/GNU-CXX.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/GNU-FindBinUtils.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/GNU.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/HP-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/HP-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/IAR-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/IBMCPP-C-DetermineVersionInternal.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/IBMClang-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/IBMClang-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/Intel-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/LCC-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/LCC-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/MSVC-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/NVHPC-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/NVIDIA-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/PGI-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/PathScale-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/SCO-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/SDCC-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/SunPro-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/SunPro-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/TI-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/TinyCC-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/VisualAge-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/VisualAge-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/Watcom-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/XL-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/XL-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/XLClang-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/XLClang-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/zOS-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/zOS-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Internal/FeatureTesting.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Platform/Windows-Determine-CXX.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Platform/Windows-GNU-C-ABI.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Platform/Windows-GNU-C.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Platform/Windows-GNU-CXX-ABI.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Platform/Windows-GNU-CXX.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Platform/Windows-GNU.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Platform/Windows-windres.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Platform/Windows.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Platform/WindowsPaths.cmake CMakeCache.txt CMakeFiles/3.23.2/CMakeCCompiler.cmake CMakeFiles/3.23.2/CMakeCXXCompiler.cmake CMakeFiles/3.23.2/CMakeRCCompiler.cmake CMakeFiles/3.23.2/CMakeSystem.cmake
+build build.ninja: RERUN_CMAKE | ../CMakeLists.txt C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeCInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeCXXInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeCommonLanguageInclude.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeGenericSystem.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeInitializeConfigs.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeLanguageInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeRCInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeSystemSpecificInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeSystemSpecificInitialize.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/GNU-C.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/GNU-CXX.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/GNU.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Platform/Windows-GNU-C-ABI.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Platform/Windows-GNU-C.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Platform/Windows-GNU-CXX-ABI.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Platform/Windows-GNU-CXX.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Platform/Windows-GNU.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Platform/Windows-windres.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Platform/Windows.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Platform/WindowsPaths.cmake CMakeCache.txt CMakeFiles/3.23.2/CMakeCCompiler.cmake CMakeFiles/3.23.2/CMakeCXXCompiler.cmake CMakeFiles/3.23.2/CMakeRCCompiler.cmake CMakeFiles/3.23.2/CMakeSystem.cmake
   pool = console
 
 
 #############################################
 # A missing CMake input file is not an error.
 
-build ../CMakeLists.txt C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeCCompiler.cmake.in C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeCCompilerABI.c C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeCInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeCXXCompiler.cmake.in C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeCXXCompilerABI.cpp C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeCXXInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeCommonLanguageInclude.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeCompilerIdDetection.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeDetermineCCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeDetermineCXXCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeDetermineCompileFeatures.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeDetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeDetermineCompilerABI.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeDetermineCompilerId.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeDetermineRCCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeDetermineSystem.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeFindBinUtils.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeGenericSystem.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeInitializeConfigs.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeLanguageInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeParseImplicitIncludeInfo.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeParseImplicitLinkInfo.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeParseLibraryArchitecture.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeRCCompiler.cmake.in C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeRCInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeSystem.cmake.in C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeSystemSpecificInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeSystemSpecificInitialize.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeTestCCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeTestCXXCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeTestCompilerCommon.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeTestRCCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/ADSP-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/ARMCC-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/ARMClang-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/AppleClang-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/Borland-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/Bruce-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/Clang-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/Clang-DetermineCompilerInternal.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/Comeau-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/Compaq-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/Compaq-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/Cray-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/Embarcadero-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/Fujitsu-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/GHS-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/GNU-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/GNU-C.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/GNU-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/GNU-CXX.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/GNU-FindBinUtils.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/GNU.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/HP-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/HP-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/IAR-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/IBMCPP-C-DetermineVersionInternal.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/IBMClang-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/IBMClang-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/Intel-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/LCC-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/LCC-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/MSVC-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/NVHPC-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/NVIDIA-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/PGI-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/PathScale-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/SCO-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/SDCC-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/SunPro-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/SunPro-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/TI-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/TinyCC-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/VisualAge-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/VisualAge-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/Watcom-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/XL-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/XL-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/XLClang-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/XLClang-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/zOS-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/zOS-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Internal/FeatureTesting.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Platform/Windows-Determine-CXX.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Platform/Windows-GNU-C-ABI.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Platform/Windows-GNU-C.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Platform/Windows-GNU-CXX-ABI.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Platform/Windows-GNU-CXX.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Platform/Windows-GNU.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Platform/Windows-windres.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Platform/Windows.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Platform/WindowsPaths.cmake CMakeCache.txt CMakeFiles/3.23.2/CMakeCCompiler.cmake CMakeFiles/3.23.2/CMakeCXXCompiler.cmake CMakeFiles/3.23.2/CMakeRCCompiler.cmake CMakeFiles/3.23.2/CMakeSystem.cmake: phony
+build ../CMakeLists.txt C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeCInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeCXXInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeCommonLanguageInclude.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeGenericSystem.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeInitializeConfigs.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeLanguageInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeRCInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeSystemSpecificInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeSystemSpecificInitialize.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/GNU-C.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/GNU-CXX.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/GNU.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Platform/Windows-GNU-C-ABI.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Platform/Windows-GNU-C.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Platform/Windows-GNU-CXX-ABI.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Platform/Windows-GNU-CXX.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Platform/Windows-GNU.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Platform/Windows-windres.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Platform/Windows.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Platform/WindowsPaths.cmake CMakeCache.txt CMakeFiles/3.23.2/CMakeCCompiler.cmake CMakeFiles/3.23.2/CMakeCXXCompiler.cmake CMakeFiles/3.23.2/CMakeRCCompiler.cmake CMakeFiles/3.23.2/CMakeSystem.cmake: phony
 
 
 #############################################
