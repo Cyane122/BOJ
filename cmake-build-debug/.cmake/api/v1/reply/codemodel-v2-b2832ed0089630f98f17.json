@@ -1,0 +1,168 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "BOJ",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Problems_00000_01037::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Problems_00000_01037-Debug-72fdc4910e016073d64a.json",
+					"name" : "Problems_00000_01037",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Problems_00000_02108::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Problems_00000_02108-Debug-6b62aef7ae3dbe958c01.json",
+					"name" : "Problems_00000_02108",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Problems_00000_02751::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Problems_00000_02751-Debug-de85c480b3442c479ca0.json",
+					"name" : "Problems_00000_02751",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Problems_00000_05086::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Problems_00000_05086-Debug-69bf8fbed36b78285e69.json",
+					"name" : "Problems_00000_05086",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Problems_10000_10814::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Problems_10000_10814-Debug-2ac511451046f831526d.json",
+					"name" : "Problems_10000_10814",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Problems_10000_11047::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Problems_10000_11047-Debug-2edf3d09a1b7a3bcd27b.json",
+					"name" : "Problems_10000_11047",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Problems_10000_11050::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Problems_10000_11050-Debug-5bdbc4530b267c9fbd85.json",
+					"name" : "Problems_10000_11050",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Problems_10000_11399::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Problems_10000_11399-Debug-d720736ace3121ea6945.json",
+					"name" : "Problems_10000_11399",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Problems_10000_11651::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Problems_10000_11651-Debug-2d0c2c39af6c9168e590.json",
+					"name" : "Problems_10000_11651",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Problems_10000_15650::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Problems_10000_15650-Debug-772b8d858e6f1997185e.json",
+					"name" : "Problems_10000_15650",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Problems_10000_15651::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Problems_10000_15651-Debug-6a8042d398d7742cb230.json",
+					"name" : "Problems_10000_15651",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Problems_10000_15652::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Problems_10000_15652-Debug-d7c7555fdaaa47df0f6c.json",
+					"name" : "Problems_10000_15652",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Problems_20000_24416::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Problems_20000_24416-Debug-547f21471204a59e4ebe.json",
+					"name" : "Problems_20000_24416",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/pc/CLionProjects/BOJ/cmake-build-debug",
+		"source" : "C:/Users/pc/CLionProjects/BOJ"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
