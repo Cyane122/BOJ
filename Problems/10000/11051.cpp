@@ -5,9 +5,20 @@
 // 시간초과!
 using namespace std;
 
+int pascal[1001][1001] = {};
+
 int nCr(int n, int r) {
-    if(r == 1 || r == n) return 1;
-    else return (nCr(n-1, r-1) + nCr(n-1, r))%10007;
+    int res;
+    if(r == 1 || r == n) res = 1;
+    else {
+        if(pascal[n][r] > 0) res = pascal[n][r];
+        else {
+            pascal[n][r] = (nCr(n-1, r-1) + nCr(n-1, r))%10007;
+            res = pascal[n][r];
+        }
+    }
+
+    return res;
 }
 
 int main() {
