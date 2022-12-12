@@ -349,6 +349,58 @@ Problems_10000_11866/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems_10000_11866.dir\build.make CMakeFiles/Problems_10000_11866.dir/build
 .PHONY : Problems_10000_11866/fast
 
+#=============================================================================
+# Target rules for targets named Problems_00000_01978
+
+# Build rule for target.
+Problems_00000_01978: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Problems_00000_01978
+.PHONY : Problems_00000_01978
+
+# fast build rule for target.
+Problems_00000_01978/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems_00000_01978.dir\build.make CMakeFiles/Problems_00000_01978.dir/build
+.PHONY : Problems_00000_01978/fast
+
+#=============================================================================
+# Target rules for targets named Problems_00000_02581
+
+# Build rule for target.
+Problems_00000_02581: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Problems_00000_02581
+.PHONY : Problems_00000_02581
+
+# fast build rule for target.
+Problems_00000_02581/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems_00000_02581.dir\build.make CMakeFiles/Problems_00000_02581.dir/build
+.PHONY : Problems_00000_02581/fast
+
+#=============================================================================
+# Target rules for targets named Problems_00000_01929
+
+# Build rule for target.
+Problems_00000_01929: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Problems_00000_01929
+.PHONY : Problems_00000_01929
+
+# fast build rule for target.
+Problems_00000_01929/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems_00000_01929.dir\build.make CMakeFiles/Problems_00000_01929.dir/build
+.PHONY : Problems_00000_01929/fast
+
+#=============================================================================
+# Target rules for targets named Problems_00000_04948
+
+# Build rule for target.
+Problems_00000_04948: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Problems_00000_04948
+.PHONY : Problems_00000_04948
+
+# fast build rule for target.
+Problems_00000_04948/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems_00000_04948.dir\build.make CMakeFiles/Problems_00000_04948.dir/build
+.PHONY : Problems_00000_04948/fast
+
 Problems/00000/01037.obj: Problems/00000/01037.cpp.obj
 .PHONY : Problems/00000/01037.obj
 
@@ -424,6 +476,54 @@ Problems/00000/01764.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems_10000_15650.dir\build.make CMakeFiles/Problems_10000_15650.dir/Problems/00000/01764.cpp.s
 .PHONY : Problems/00000/01764.cpp.s
 
+Problems/00000/01929.obj: Problems/00000/01929.cpp.obj
+.PHONY : Problems/00000/01929.obj
+
+# target to build an object file
+Problems/00000/01929.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems_00000_01929.dir\build.make CMakeFiles/Problems_00000_01929.dir/Problems/00000/01929.cpp.obj
+.PHONY : Problems/00000/01929.cpp.obj
+
+Problems/00000/01929.i: Problems/00000/01929.cpp.i
+.PHONY : Problems/00000/01929.i
+
+# target to preprocess a source file
+Problems/00000/01929.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems_00000_01929.dir\build.make CMakeFiles/Problems_00000_01929.dir/Problems/00000/01929.cpp.i
+.PHONY : Problems/00000/01929.cpp.i
+
+Problems/00000/01929.s: Problems/00000/01929.cpp.s
+.PHONY : Problems/00000/01929.s
+
+# target to generate assembly for a file
+Problems/00000/01929.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems_00000_01929.dir\build.make CMakeFiles/Problems_00000_01929.dir/Problems/00000/01929.cpp.s
+.PHONY : Problems/00000/01929.cpp.s
+
+Problems/00000/01978.obj: Problems/00000/01978.cpp.obj
+.PHONY : Problems/00000/01978.obj
+
+# target to build an object file
+Problems/00000/01978.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems_00000_01978.dir\build.make CMakeFiles/Problems_00000_01978.dir/Problems/00000/01978.cpp.obj
+.PHONY : Problems/00000/01978.cpp.obj
+
+Problems/00000/01978.i: Problems/00000/01978.cpp.i
+.PHONY : Problems/00000/01978.i
+
+# target to preprocess a source file
+Problems/00000/01978.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems_00000_01978.dir\build.make CMakeFiles/Problems_00000_01978.dir/Problems/00000/01978.cpp.i
+.PHONY : Problems/00000/01978.cpp.i
+
+Problems/00000/01978.s: Problems/00000/01978.cpp.s
+.PHONY : Problems/00000/01978.s
+
+# target to generate assembly for a file
+Problems/00000/01978.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems_00000_01978.dir\build.make CMakeFiles/Problems_00000_01978.dir/Problems/00000/01978.cpp.s
+.PHONY : Problems/00000/01978.cpp.s
+
 Problems/00000/02108.obj: Problems/00000/02108.cpp.obj
 .PHONY : Problems/00000/02108.obj
 
@@ -448,6 +548,30 @@ Problems/00000/02108.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems_00000_02108.dir\build.make CMakeFiles/Problems_00000_02108.dir/Problems/00000/02108.cpp.s
 .PHONY : Problems/00000/02108.cpp.s
 
+Problems/00000/02581.obj: Problems/00000/02581.cpp.obj
+.PHONY : Problems/00000/02581.obj
+
+# target to build an object file
+Problems/00000/02581.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems_00000_02581.dir\build.make CMakeFiles/Problems_00000_02581.dir/Problems/00000/02581.cpp.obj
+.PHONY : Problems/00000/02581.cpp.obj
+
+Problems/00000/02581.i: Problems/00000/02581.cpp.i
+.PHONY : Problems/00000/02581.i
+
+# target to preprocess a source file
+Problems/00000/02581.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems_00000_02581.dir\build.make CMakeFiles/Problems_00000_02581.dir/Problems/00000/02581.cpp.i
+.PHONY : Problems/00000/02581.cpp.i
+
+Problems/00000/02581.s: Problems/00000/02581.cpp.s
+.PHONY : Problems/00000/02581.s
+
+# target to generate assembly for a file
+Problems/00000/02581.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems_00000_02581.dir\build.make CMakeFiles/Problems_00000_02581.dir/Problems/00000/02581.cpp.s
+.PHONY : Problems/00000/02581.cpp.s
+
 Problems/00000/02751.obj: Problems/00000/02751.cpp.obj
 .PHONY : Problems/00000/02751.obj
 
@@ -471,6 +595,30 @@ Problems/00000/02751.s: Problems/00000/02751.cpp.s
 Problems/00000/02751.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems_00000_02751.dir\build.make CMakeFiles/Problems_00000_02751.dir/Problems/00000/02751.cpp.s
 .PHONY : Problems/00000/02751.cpp.s
+
+Problems/00000/04948.obj: Problems/00000/04948.cpp.obj
+.PHONY : Problems/00000/04948.obj
+
+# target to build an object file
+Problems/00000/04948.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems_00000_04948.dir\build.make CMakeFiles/Problems_00000_04948.dir/Problems/00000/04948.cpp.obj
+.PHONY : Problems/00000/04948.cpp.obj
+
+Problems/00000/04948.i: Problems/00000/04948.cpp.i
+.PHONY : Problems/00000/04948.i
+
+# target to preprocess a source file
+Problems/00000/04948.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems_00000_04948.dir\build.make CMakeFiles/Problems_00000_04948.dir/Problems/00000/04948.cpp.i
+.PHONY : Problems/00000/04948.cpp.i
+
+Problems/00000/04948.s: Problems/00000/04948.cpp.s
+.PHONY : Problems/00000/04948.s
+
+# target to generate assembly for a file
+Problems/00000/04948.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems_00000_04948.dir\build.make CMakeFiles/Problems_00000_04948.dir/Problems/00000/04948.cpp.s
+.PHONY : Problems/00000/04948.cpp.s
 
 Problems/00000/05086.obj: Problems/00000/05086.cpp.obj
 .PHONY : Problems/00000/05086.obj
@@ -854,8 +1002,12 @@ help:
 	@echo ... rebuild_cache
 	@echo ... Problems_00000_01037
 	@echo ... Problems_00000_01436
+	@echo ... Problems_00000_01929
+	@echo ... Problems_00000_01978
 	@echo ... Problems_00000_02108
+	@echo ... Problems_00000_02581
 	@echo ... Problems_00000_02751
+	@echo ... Problems_00000_04948
 	@echo ... Problems_00000_05086
 	@echo ... Problems_00000_07568
 	@echo ... Problems_00000_09184
@@ -879,12 +1031,24 @@ help:
 	@echo ... Problems/00000/01764.obj
 	@echo ... Problems/00000/01764.i
 	@echo ... Problems/00000/01764.s
+	@echo ... Problems/00000/01929.obj
+	@echo ... Problems/00000/01929.i
+	@echo ... Problems/00000/01929.s
+	@echo ... Problems/00000/01978.obj
+	@echo ... Problems/00000/01978.i
+	@echo ... Problems/00000/01978.s
 	@echo ... Problems/00000/02108.obj
 	@echo ... Problems/00000/02108.i
 	@echo ... Problems/00000/02108.s
+	@echo ... Problems/00000/02581.obj
+	@echo ... Problems/00000/02581.i
+	@echo ... Problems/00000/02581.s
 	@echo ... Problems/00000/02751.obj
 	@echo ... Problems/00000/02751.i
 	@echo ... Problems/00000/02751.s
+	@echo ... Problems/00000/04948.obj
+	@echo ... Problems/00000/04948.i
+	@echo ... Problems/00000/04948.s
 	@echo ... Problems/00000/05086.obj
 	@echo ... Problems/00000/05086.i
 	@echo ... Problems/00000/05086.s
