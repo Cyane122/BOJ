@@ -1,0 +1,105 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "BOJ",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Problems_00000_01037::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Problems_00000_01037-Debug-0c37b1562cee2dd3f76f.json",
+					"name" : "Problems_00000_01037",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Problems_00000_05086::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Problems_00000_05086-Debug-3057b5824d783c723d03.json",
+					"name" : "Problems_00000_05086",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Problems_10000_11050::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Problems_10000_11050-Debug-f612a2b50e862425a53d.json",
+					"name" : "Problems_10000_11050",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Problems_10000_15650::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Problems_10000_15650-Debug-56ffa4d2de1a70a83fd8.json",
+					"name" : "Problems_10000_15650",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Problems_10000_15651::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Problems_10000_15651-Debug-3cfe0c5554728d236f6d.json",
+					"name" : "Problems_10000_15651",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Problems_10000_15652::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Problems_10000_15652-Debug-daf2400ed36fadbc9c45.json",
+					"name" : "Problems_10000_15652",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/User/CLionProjects/BOJ/cmake-build-debug",
+		"source" : "C:/Users/User/CLionProjects/BOJ"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
