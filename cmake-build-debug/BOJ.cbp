@@ -1073,6 +1073,486 @@
 					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/pc/CLionProjects/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
+			<Target title="Problems_00000_02941">
+				<Option output="C:/Users/pc/CLionProjects/BOJ/cmake-build-debug/Problems_00000_02941.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/pc/CLionProjects/BOJ/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/pc/CLionProjects/BOJ/."/>
+					<Add directory="C:/Users/pc/CLionProjects/BOJ/Problems"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/pc/CLionProjects/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 Problems_00000_02941"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/pc/CLionProjects/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/pc/CLionProjects/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/pc/CLionProjects/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Problems_00000_02941/fast">
+				<Option output="C:/Users/pc/CLionProjects/BOJ/cmake-build-debug/Problems_00000_02941.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/pc/CLionProjects/BOJ/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/pc/CLionProjects/BOJ/."/>
+					<Add directory="C:/Users/pc/CLionProjects/BOJ/Problems"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/pc/CLionProjects/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 Problems_00000_02941/fast"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/pc/CLionProjects/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/pc/CLionProjects/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/pc/CLionProjects/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Problems_00000_01316">
+				<Option output="C:/Users/pc/CLionProjects/BOJ/cmake-build-debug/Problems_00000_01316.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/pc/CLionProjects/BOJ/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/pc/CLionProjects/BOJ/."/>
+					<Add directory="C:/Users/pc/CLionProjects/BOJ/Problems"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/pc/CLionProjects/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 Problems_00000_01316"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/pc/CLionProjects/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/pc/CLionProjects/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/pc/CLionProjects/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Problems_00000_01316/fast">
+				<Option output="C:/Users/pc/CLionProjects/BOJ/cmake-build-debug/Problems_00000_01316.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/pc/CLionProjects/BOJ/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/pc/CLionProjects/BOJ/."/>
+					<Add directory="C:/Users/pc/CLionProjects/BOJ/Problems"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/pc/CLionProjects/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 Problems_00000_01316/fast"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/pc/CLionProjects/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/pc/CLionProjects/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/pc/CLionProjects/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Problems_10000_18870">
+				<Option output="C:/Users/pc/CLionProjects/BOJ/cmake-build-debug/Problems_10000_18870.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/pc/CLionProjects/BOJ/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/pc/CLionProjects/BOJ/."/>
+					<Add directory="C:/Users/pc/CLionProjects/BOJ/Problems"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/pc/CLionProjects/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 Problems_10000_18870"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/pc/CLionProjects/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/pc/CLionProjects/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/pc/CLionProjects/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Problems_10000_18870/fast">
+				<Option output="C:/Users/pc/CLionProjects/BOJ/cmake-build-debug/Problems_10000_18870.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/pc/CLionProjects/BOJ/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/pc/CLionProjects/BOJ/."/>
+					<Add directory="C:/Users/pc/CLionProjects/BOJ/Problems"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/pc/CLionProjects/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 Problems_10000_18870/fast"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/pc/CLionProjects/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/pc/CLionProjects/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/pc/CLionProjects/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Problems_10000_10815">
+				<Option output="C:/Users/pc/CLionProjects/BOJ/cmake-build-debug/Problems_10000_10815.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/pc/CLionProjects/BOJ/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/pc/CLionProjects/BOJ/."/>
+					<Add directory="C:/Users/pc/CLionProjects/BOJ/Problems"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/pc/CLionProjects/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 Problems_10000_10815"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/pc/CLionProjects/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/pc/CLionProjects/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/pc/CLionProjects/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Problems_10000_10815/fast">
+				<Option output="C:/Users/pc/CLionProjects/BOJ/cmake-build-debug/Problems_10000_10815.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/pc/CLionProjects/BOJ/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/pc/CLionProjects/BOJ/."/>
+					<Add directory="C:/Users/pc/CLionProjects/BOJ/Problems"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/pc/CLionProjects/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 Problems_10000_10815/fast"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/pc/CLionProjects/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/pc/CLionProjects/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/pc/CLionProjects/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Problems_10000_14425">
+				<Option output="C:/Users/pc/CLionProjects/BOJ/cmake-build-debug/Problems_10000_14425.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/pc/CLionProjects/BOJ/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/pc/CLionProjects/BOJ/."/>
+					<Add directory="C:/Users/pc/CLionProjects/BOJ/Problems"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/pc/CLionProjects/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 Problems_10000_14425"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/pc/CLionProjects/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/pc/CLionProjects/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/pc/CLionProjects/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Problems_10000_14425/fast">
+				<Option output="C:/Users/pc/CLionProjects/BOJ/cmake-build-debug/Problems_10000_14425.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/pc/CLionProjects/BOJ/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/pc/CLionProjects/BOJ/."/>
+					<Add directory="C:/Users/pc/CLionProjects/BOJ/Problems"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/pc/CLionProjects/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 Problems_10000_14425/fast"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/pc/CLionProjects/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/pc/CLionProjects/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/pc/CLionProjects/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Problems_00000_01764">
+				<Option output="C:/Users/pc/CLionProjects/BOJ/cmake-build-debug/Problems_00000_01764.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/pc/CLionProjects/BOJ/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/pc/CLionProjects/BOJ/."/>
+					<Add directory="C:/Users/pc/CLionProjects/BOJ/Problems"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/pc/CLionProjects/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 Problems_00000_01764"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/pc/CLionProjects/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/pc/CLionProjects/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/pc/CLionProjects/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Problems_00000_01764/fast">
+				<Option output="C:/Users/pc/CLionProjects/BOJ/cmake-build-debug/Problems_00000_01764.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/pc/CLionProjects/BOJ/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/pc/CLionProjects/BOJ/."/>
+					<Add directory="C:/Users/pc/CLionProjects/BOJ/Problems"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/pc/CLionProjects/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 Problems_00000_01764/fast"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/pc/CLionProjects/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/pc/CLionProjects/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/pc/CLionProjects/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Problems_00000_01620">
+				<Option output="C:/Users/pc/CLionProjects/BOJ/cmake-build-debug/Problems_00000_01620.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/pc/CLionProjects/BOJ/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/pc/CLionProjects/BOJ/."/>
+					<Add directory="C:/Users/pc/CLionProjects/BOJ/Problems"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/pc/CLionProjects/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 Problems_00000_01620"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/pc/CLionProjects/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/pc/CLionProjects/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/pc/CLionProjects/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Problems_00000_01620/fast">
+				<Option output="C:/Users/pc/CLionProjects/BOJ/cmake-build-debug/Problems_00000_01620.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/pc/CLionProjects/BOJ/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/pc/CLionProjects/BOJ/."/>
+					<Add directory="C:/Users/pc/CLionProjects/BOJ/Problems"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/pc/CLionProjects/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 Problems_00000_01620/fast"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/pc/CLionProjects/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/pc/CLionProjects/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/pc/CLionProjects/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Problems_00000_01269">
+				<Option output="C:/Users/pc/CLionProjects/BOJ/cmake-build-debug/Problems_00000_01269.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/pc/CLionProjects/BOJ/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/pc/CLionProjects/BOJ/."/>
+					<Add directory="C:/Users/pc/CLionProjects/BOJ/Problems"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/pc/CLionProjects/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 Problems_00000_01269"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/pc/CLionProjects/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/pc/CLionProjects/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/pc/CLionProjects/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Problems_00000_01269/fast">
+				<Option output="C:/Users/pc/CLionProjects/BOJ/cmake-build-debug/Problems_00000_01269.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/pc/CLionProjects/BOJ/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/pc/CLionProjects/BOJ/."/>
+					<Add directory="C:/Users/pc/CLionProjects/BOJ/Problems"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/pc/CLionProjects/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 Problems_00000_01269/fast"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/pc/CLionProjects/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/pc/CLionProjects/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/pc/CLionProjects/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Problems_10000_10816">
+				<Option output="C:/Users/pc/CLionProjects/BOJ/cmake-build-debug/Problems_10000_10816.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/pc/CLionProjects/BOJ/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/pc/CLionProjects/BOJ/."/>
+					<Add directory="C:/Users/pc/CLionProjects/BOJ/Problems"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/pc/CLionProjects/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 Problems_10000_10816"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/pc/CLionProjects/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/pc/CLionProjects/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/pc/CLionProjects/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Problems_10000_10816/fast">
+				<Option output="C:/Users/pc/CLionProjects/BOJ/cmake-build-debug/Problems_10000_10816.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/pc/CLionProjects/BOJ/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/pc/CLionProjects/BOJ/."/>
+					<Add directory="C:/Users/pc/CLionProjects/BOJ/Problems"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/pc/CLionProjects/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 Problems_10000_10816/fast"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/pc/CLionProjects/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/pc/CLionProjects/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/pc/CLionProjects/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Problems_10000_11478">
+				<Option output="C:/Users/pc/CLionProjects/BOJ/cmake-build-debug/Problems_10000_11478.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/pc/CLionProjects/BOJ/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/pc/CLionProjects/BOJ/."/>
+					<Add directory="C:/Users/pc/CLionProjects/BOJ/Problems"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/pc/CLionProjects/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 Problems_10000_11478"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/pc/CLionProjects/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/pc/CLionProjects/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/pc/CLionProjects/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Problems_10000_11478/fast">
+				<Option output="C:/Users/pc/CLionProjects/BOJ/cmake-build-debug/Problems_10000_11478.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/pc/CLionProjects/BOJ/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/pc/CLionProjects/BOJ/."/>
+					<Add directory="C:/Users/pc/CLionProjects/BOJ/Problems"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/pc/CLionProjects/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 Problems_10000_11478/fast"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/pc/CLionProjects/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/pc/CLionProjects/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/pc/CLionProjects/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
 			<Target title="edit_cache">
 				<Option working_dir="C:/Users/pc/CLionProjects/BOJ/cmake-build-debug"/>
 				<Option type="4"/>
@@ -1098,11 +1578,21 @@
 			<Option target="Problems_10000_15650"/>
 			<Option target="Problems_00000_01037"/>
 		</Unit>
+		<Unit filename="C:/Users/pc/CLionProjects/BOJ/Problems/00000/01269.cpp">
+			<Option target="Problems_00000_01269"/>
+		</Unit>
+		<Unit filename="C:/Users/pc/CLionProjects/BOJ/Problems/00000/01316.cpp">
+			<Option target="Problems_00000_01316"/>
+		</Unit>
 		<Unit filename="C:/Users/pc/CLionProjects/BOJ/Problems/00000/01436.cpp">
 			<Option target="Problems_00000_01436"/>
 		</Unit>
+		<Unit filename="C:/Users/pc/CLionProjects/BOJ/Problems/00000/01620.cpp">
+			<Option target="Problems_00000_01620"/>
+		</Unit>
 		<Unit filename="C:/Users/pc/CLionProjects/BOJ/Problems/00000/01764.cpp">
 			<Option target="Problems_10000_15650"/>
+			<Option target="Problems_00000_01764"/>
 		</Unit>
 		<Unit filename="C:/Users/pc/CLionProjects/BOJ/Problems/00000/01929.cpp">
 			<Option target="Problems_00000_01929"/>
@@ -1118,6 +1608,9 @@
 		</Unit>
 		<Unit filename="C:/Users/pc/CLionProjects/BOJ/Problems/00000/02751.cpp">
 			<Option target="Problems_00000_02751"/>
+		</Unit>
+		<Unit filename="C:/Users/pc/CLionProjects/BOJ/Problems/00000/02941.cpp">
+			<Option target="Problems_00000_02941"/>
 		</Unit>
 		<Unit filename="C:/Users/pc/CLionProjects/BOJ/Problems/00000/04948.cpp">
 			<Option target="Problems_00000_04948"/>
@@ -1138,6 +1631,12 @@
 		<Unit filename="C:/Users/pc/CLionProjects/BOJ/Problems/10000/10814.cpp">
 			<Option target="Problems_10000_10814"/>
 		</Unit>
+		<Unit filename="C:/Users/pc/CLionProjects/BOJ/Problems/10000/10815.cpp">
+			<Option target="Problems_10000_10815"/>
+		</Unit>
+		<Unit filename="C:/Users/pc/CLionProjects/BOJ/Problems/10000/10816.cpp">
+			<Option target="Problems_10000_10816"/>
+		</Unit>
 		<Unit filename="C:/Users/pc/CLionProjects/BOJ/Problems/10000/11047.cpp">
 			<Option target="Problems_10000_11047"/>
 		</Unit>
@@ -1151,11 +1650,17 @@
 		<Unit filename="C:/Users/pc/CLionProjects/BOJ/Problems/10000/11399.cpp">
 			<Option target="Problems_10000_11399"/>
 		</Unit>
+		<Unit filename="C:/Users/pc/CLionProjects/BOJ/Problems/10000/11478.cpp">
+			<Option target="Problems_10000_11478"/>
+		</Unit>
 		<Unit filename="C:/Users/pc/CLionProjects/BOJ/Problems/10000/11651.cpp">
 			<Option target="Problems_10000_11651"/>
 		</Unit>
 		<Unit filename="C:/Users/pc/CLionProjects/BOJ/Problems/10000/11866.cpp">
 			<Option target="Problems_10000_11866"/>
+		</Unit>
+		<Unit filename="C:/Users/pc/CLionProjects/BOJ/Problems/10000/14425.cpp">
+			<Option target="Problems_10000_14425"/>
 		</Unit>
 		<Unit filename="C:/Users/pc/CLionProjects/BOJ/Problems/10000/15650.cpp">
 			<Option target="Problems_10000_15650"/>
@@ -1167,6 +1672,9 @@
 		<Unit filename="C:/Users/pc/CLionProjects/BOJ/Problems/10000/15652.cpp">
 			<Option target="Problems_10000_15650"/>
 			<Option target="Problems_10000_15652"/>
+		</Unit>
+		<Unit filename="C:/Users/pc/CLionProjects/BOJ/Problems/10000/18870.cpp">
+			<Option target="Problems_10000_18870"/>
 		</Unit>
 		<Unit filename="C:/Users/pc/CLionProjects/BOJ/Problems/20000/24416.cpp">
 			<Option target="Problems_20000_24416"/>

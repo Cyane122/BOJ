@@ -7,7 +7,7 @@
 
 using namespace std;
 
-stack<int> s;
+stack<int> v;
 
 int main() {
     ios_base::sync_with_stdio(0);
@@ -19,17 +19,17 @@ int main() {
     while(k <= K) {
         cin >> temp;
         if(temp == 0) {
-            s.pop();
+            v.pop();
         } else {
-            s.push(temp);
+            v.push(temp);
         }
         k++;
     }
 
     int sum = 0;
-    for(int i = 1; !s.empty(); i++) {
-        sum+=s.top();
-        s.pop();
+    for(int i = 1; !v.empty(); i++) {
+        sum+=v.top();
+        v.pop();
     }
 
     cout << sum;
