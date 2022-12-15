@@ -30,5 +30,10 @@ C:/Users/pc/CLionProjects/BOJ/cmake-build-debug/CMakeFiles/Problems_00000_01620.
 C:/Users/pc/CLionProjects/BOJ/cmake-build-debug/CMakeFiles/Problems_00000_01269.dir
 C:/Users/pc/CLionProjects/BOJ/cmake-build-debug/CMakeFiles/Problems_10000_10816.dir
 C:/Users/pc/CLionProjects/BOJ/cmake-build-debug/CMakeFiles/Problems_10000_11478.dir
+C:/Users/pc/CLionProjects/BOJ/cmake-build-debug/CMakeFiles/Problems_00000_01085.dir
+C:/Users/pc/CLionProjects/BOJ/cmake-build-debug/CMakeFiles/Problems_00000_03009.dir
+C:/Users/pc/CLionProjects/BOJ/cmake-build-debug/CMakeFiles/Problems_00000_04153.dir
+C:/Users/pc/CLionProjects/BOJ/cmake-build-debug/CMakeFiles/Problems_00000_03053.dir
+C:/Users/pc/CLionProjects/BOJ/cmake-build-debug/CMakeFiles/Problems_00000_01002.dir
 C:/Users/pc/CLionProjects/BOJ/cmake-build-debug/CMakeFiles/edit_cache.dir
 C:/Users/pc/CLionProjects/BOJ/cmake-build-debug/CMakeFiles/rebuild_cache.dir

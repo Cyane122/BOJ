@@ -94,6 +94,11 @@ all: CMakeFiles/Problems_00000_01620.dir/all
 all: CMakeFiles/Problems_00000_01269.dir/all
 all: CMakeFiles/Problems_10000_10816.dir/all
 all: CMakeFiles/Problems_10000_11478.dir/all
+all: CMakeFiles/Problems_00000_01085.dir/all
+all: CMakeFiles/Problems_00000_03009.dir/all
+all: CMakeFiles/Problems_00000_04153.dir/all
+all: CMakeFiles/Problems_00000_03053.dir/all
+all: CMakeFiles/Problems_00000_01002.dir/all
 .PHONY : all
 
 # The main recursive "preinstall" target.
@@ -133,6 +138,11 @@ clean: CMakeFiles/Problems_00000_01620.dir/clean
 clean: CMakeFiles/Problems_00000_01269.dir/clean
 clean: CMakeFiles/Problems_10000_10816.dir/clean
 clean: CMakeFiles/Problems_10000_11478.dir/clean
+clean: CMakeFiles/Problems_00000_01085.dir/clean
+clean: CMakeFiles/Problems_00000_03009.dir/clean
+clean: CMakeFiles/Problems_00000_04153.dir/clean
+clean: CMakeFiles/Problems_00000_03053.dir/clean
+clean: CMakeFiles/Problems_00000_01002.dir/clean
 .PHONY : clean
 
 #=============================================================================
@@ -142,7 +152,7 @@ clean: CMakeFiles/Problems_10000_11478.dir/clean
 CMakeFiles/Problems_10000_15650.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems_10000_15650.dir\build.make CMakeFiles/Problems_10000_15650.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems_10000_15650.dir\build.make CMakeFiles/Problems_10000_15650.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\pc\CLionProjects\BOJ\cmake-build-debug\CMakeFiles --progress-num=55,56,57,58,59,60,61,62,63 "Built target Problems_10000_15650"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\pc\CLionProjects\BOJ\cmake-build-debug\CMakeFiles --progress-num=65,66,67,68,69,70,71,72,73 "Built target Problems_10000_15650"
 .PHONY : CMakeFiles/Problems_10000_15650.dir/all
 
 # Build rule for subdir invocation for target.
@@ -168,7 +178,7 @@ CMakeFiles/Problems_10000_15650.dir/clean:
 CMakeFiles/Problems_10000_15651.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems_10000_15651.dir\build.make CMakeFiles/Problems_10000_15651.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems_10000_15651.dir\build.make CMakeFiles/Problems_10000_15651.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\pc\CLionProjects\BOJ\cmake-build-debug\CMakeFiles --progress-num=64,65 "Built target Problems_10000_15651"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\pc\CLionProjects\BOJ\cmake-build-debug\CMakeFiles --progress-num=74,75 "Built target Problems_10000_15651"
 .PHONY : CMakeFiles/Problems_10000_15651.dir/all
 
 # Build rule for subdir invocation for target.
@@ -194,7 +204,7 @@ CMakeFiles/Problems_10000_15651.dir/clean:
 CMakeFiles/Problems_10000_15652.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems_10000_15652.dir\build.make CMakeFiles/Problems_10000_15652.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems_10000_15652.dir\build.make CMakeFiles/Problems_10000_15652.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\pc\CLionProjects\BOJ\cmake-build-debug\CMakeFiles --progress-num=66,67 "Built target Problems_10000_15652"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\pc\CLionProjects\BOJ\cmake-build-debug\CMakeFiles --progress-num=76,77 "Built target Problems_10000_15652"
 .PHONY : CMakeFiles/Problems_10000_15652.dir/all
 
 # Build rule for subdir invocation for target.
@@ -220,7 +230,7 @@ CMakeFiles/Problems_10000_15652.dir/clean:
 CMakeFiles/Problems_00000_05086.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems_00000_05086.dir\build.make CMakeFiles/Problems_00000_05086.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems_00000_05086.dir\build.make CMakeFiles/Problems_00000_05086.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\pc\CLionProjects\BOJ\cmake-build-debug\CMakeFiles --progress-num=27,28 "Built target Problems_00000_05086"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\pc\CLionProjects\BOJ\cmake-build-debug\CMakeFiles --progress-num=37,38 "Built target Problems_00000_05086"
 .PHONY : CMakeFiles/Problems_00000_05086.dir/all
 
 # Build rule for subdir invocation for target.
@@ -246,7 +256,7 @@ CMakeFiles/Problems_00000_05086.dir/clean:
 CMakeFiles/Problems_00000_01037.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems_00000_01037.dir\build.make CMakeFiles/Problems_00000_01037.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems_00000_01037.dir\build.make CMakeFiles/Problems_00000_01037.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\pc\CLionProjects\BOJ\cmake-build-debug\CMakeFiles --progress-num=1,2 "Built target Problems_00000_01037"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\pc\CLionProjects\BOJ\cmake-build-debug\CMakeFiles --progress-num=3,4 "Built target Problems_00000_01037"
 .PHONY : CMakeFiles/Problems_00000_01037.dir/all
 
 # Build rule for subdir invocation for target.
@@ -272,7 +282,7 @@ CMakeFiles/Problems_00000_01037.dir/clean:
 CMakeFiles/Problems_10000_11050.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems_10000_11050.dir\build.make CMakeFiles/Problems_10000_11050.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems_10000_11050.dir\build.make CMakeFiles/Problems_10000_11050.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\pc\CLionProjects\BOJ\cmake-build-debug\CMakeFiles --progress-num=43,44 "Built target Problems_10000_11050"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\pc\CLionProjects\BOJ\cmake-build-debug\CMakeFiles --progress-num=53,54 "Built target Problems_10000_11050"
 .PHONY : CMakeFiles/Problems_10000_11050.dir/all
 
 # Build rule for subdir invocation for target.
@@ -298,7 +308,7 @@ CMakeFiles/Problems_10000_11050.dir/clean:
 CMakeFiles/Problems_20000_24416.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems_20000_24416.dir\build.make CMakeFiles/Problems_20000_24416.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems_20000_24416.dir\build.make CMakeFiles/Problems_20000_24416.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\pc\CLionProjects\BOJ\cmake-build-debug\CMakeFiles --progress-num=70,71 "Built target Problems_20000_24416"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\pc\CLionProjects\BOJ\cmake-build-debug\CMakeFiles --progress-num=80,81 "Built target Problems_20000_24416"
 .PHONY : CMakeFiles/Problems_20000_24416.dir/all
 
 # Build rule for subdir invocation for target.
@@ -324,7 +334,7 @@ CMakeFiles/Problems_20000_24416.dir/clean:
 CMakeFiles/Problems_10000_11651.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems_10000_11651.dir\build.make CMakeFiles/Problems_10000_11651.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems_10000_11651.dir\build.make CMakeFiles/Problems_10000_11651.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\pc\CLionProjects\BOJ\cmake-build-debug\CMakeFiles --progress-num=49,50 "Built target Problems_10000_11651"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\pc\CLionProjects\BOJ\cmake-build-debug\CMakeFiles --progress-num=59,60 "Built target Problems_10000_11651"
 .PHONY : CMakeFiles/Problems_10000_11651.dir/all
 
 # Build rule for subdir invocation for target.
@@ -350,7 +360,7 @@ CMakeFiles/Problems_10000_11651.dir/clean:
 CMakeFiles/Problems_10000_10814.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems_10000_10814.dir\build.make CMakeFiles/Problems_10000_10814.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems_10000_10814.dir\build.make CMakeFiles/Problems_10000_10814.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\pc\CLionProjects\BOJ\cmake-build-debug\CMakeFiles --progress-num=35,36 "Built target Problems_10000_10814"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\pc\CLionProjects\BOJ\cmake-build-debug\CMakeFiles --progress-num=45,46 "Built target Problems_10000_10814"
 .PHONY : CMakeFiles/Problems_10000_10814.dir/all
 
 # Build rule for subdir invocation for target.
@@ -376,7 +386,7 @@ CMakeFiles/Problems_10000_10814.dir/clean:
 CMakeFiles/Problems_00000_02108.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems_00000_02108.dir\build.make CMakeFiles/Problems_00000_02108.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems_00000_02108.dir\build.make CMakeFiles/Problems_00000_02108.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\pc\CLionProjects\BOJ\cmake-build-debug\CMakeFiles --progress-num=17,18 "Built target Problems_00000_02108"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\pc\CLionProjects\BOJ\cmake-build-debug\CMakeFiles --progress-num=21,22 "Built target Problems_00000_02108"
 .PHONY : CMakeFiles/Problems_00000_02108.dir/all
 
 # Build rule for subdir invocation for target.
@@ -402,7 +412,7 @@ CMakeFiles/Problems_00000_02108.dir/clean:
 CMakeFiles/Problems_00000_02751.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems_00000_02751.dir\build.make CMakeFiles/Problems_00000_02751.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems_00000_02751.dir\build.make CMakeFiles/Problems_00000_02751.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\pc\CLionProjects\BOJ\cmake-build-debug\CMakeFiles --progress-num=21,22 "Built target Problems_00000_02751"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\pc\CLionProjects\BOJ\cmake-build-debug\CMakeFiles --progress-num=25,26 "Built target Problems_00000_02751"
 .PHONY : CMakeFiles/Problems_00000_02751.dir/all
 
 # Build rule for subdir invocation for target.
@@ -428,7 +438,7 @@ CMakeFiles/Problems_00000_02751.dir/clean:
 CMakeFiles/Problems_10000_11399.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems_10000_11399.dir\build.make CMakeFiles/Problems_10000_11399.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems_10000_11399.dir\build.make CMakeFiles/Problems_10000_11399.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\pc\CLionProjects\BOJ\cmake-build-debug\CMakeFiles --progress-num=45,46 "Built target Problems_10000_11399"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\pc\CLionProjects\BOJ\cmake-build-debug\CMakeFiles --progress-num=55,56 "Built target Problems_10000_11399"
 .PHONY : CMakeFiles/Problems_10000_11399.dir/all
 
 # Build rule for subdir invocation for target.
@@ -454,7 +464,7 @@ CMakeFiles/Problems_10000_11399.dir/clean:
 CMakeFiles/Problems_10000_11047.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems_10000_11047.dir\build.make CMakeFiles/Problems_10000_11047.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems_10000_11047.dir\build.make CMakeFiles/Problems_10000_11047.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\pc\CLionProjects\BOJ\cmake-build-debug\CMakeFiles --progress-num=41,42 "Built target Problems_10000_11047"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\pc\CLionProjects\BOJ\cmake-build-debug\CMakeFiles --progress-num=51,52 "Built target Problems_10000_11047"
 .PHONY : CMakeFiles/Problems_10000_11047.dir/all
 
 # Build rule for subdir invocation for target.
@@ -480,7 +490,7 @@ CMakeFiles/Problems_10000_11047.dir/clean:
 CMakeFiles/Problems_00000_07568.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems_00000_07568.dir\build.make CMakeFiles/Problems_00000_07568.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems_00000_07568.dir\build.make CMakeFiles/Problems_00000_07568.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\pc\CLionProjects\BOJ\cmake-build-debug\CMakeFiles --progress-num=29,30 "Built target Problems_00000_07568"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\pc\CLionProjects\BOJ\cmake-build-debug\CMakeFiles --progress-num=39,40 "Built target Problems_00000_07568"
 .PHONY : CMakeFiles/Problems_00000_07568.dir/all
 
 # Build rule for subdir invocation for target.
@@ -506,7 +516,7 @@ CMakeFiles/Problems_00000_07568.dir/clean:
 CMakeFiles/Problems_00000_01436.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems_00000_01436.dir\build.make CMakeFiles/Problems_00000_01436.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems_00000_01436.dir\build.make CMakeFiles/Problems_00000_01436.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\pc\CLionProjects\BOJ\cmake-build-debug\CMakeFiles --progress-num=7,8 "Built target Problems_00000_01436"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\pc\CLionProjects\BOJ\cmake-build-debug\CMakeFiles --progress-num=11,12 "Built target Problems_00000_01436"
 .PHONY : CMakeFiles/Problems_00000_01436.dir/all
 
 # Build rule for subdir invocation for target.
@@ -532,7 +542,7 @@ CMakeFiles/Problems_00000_01436.dir/clean:
 CMakeFiles/Problems_00000_09184.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems_00000_09184.dir\build.make CMakeFiles/Problems_00000_09184.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems_00000_09184.dir\build.make CMakeFiles/Problems_00000_09184.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\pc\CLionProjects\BOJ\cmake-build-debug\CMakeFiles --progress-num=31,32 "Built target Problems_00000_09184"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\pc\CLionProjects\BOJ\cmake-build-debug\CMakeFiles --progress-num=41,42 "Built target Problems_00000_09184"
 .PHONY : CMakeFiles/Problems_00000_09184.dir/all
 
 # Build rule for subdir invocation for target.
@@ -558,7 +568,7 @@ CMakeFiles/Problems_00000_09184.dir/clean:
 CMakeFiles/Problems_10000_10773.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems_10000_10773.dir\build.make CMakeFiles/Problems_10000_10773.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems_10000_10773.dir\build.make CMakeFiles/Problems_10000_10773.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\pc\CLionProjects\BOJ\cmake-build-debug\CMakeFiles --progress-num=33,34 "Built target Problems_10000_10773"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\pc\CLionProjects\BOJ\cmake-build-debug\CMakeFiles --progress-num=43,44 "Built target Problems_10000_10773"
 .PHONY : CMakeFiles/Problems_10000_10773.dir/all
 
 # Build rule for subdir invocation for target.
@@ -584,7 +594,7 @@ CMakeFiles/Problems_10000_10773.dir/clean:
 CMakeFiles/Problems_10000_11866.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems_10000_11866.dir\build.make CMakeFiles/Problems_10000_11866.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems_10000_11866.dir\build.make CMakeFiles/Problems_10000_11866.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\pc\CLionProjects\BOJ\cmake-build-debug\CMakeFiles --progress-num=51,52 "Built target Problems_10000_11866"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\pc\CLionProjects\BOJ\cmake-build-debug\CMakeFiles --progress-num=61,62 "Built target Problems_10000_11866"
 .PHONY : CMakeFiles/Problems_10000_11866.dir/all
 
 # Build rule for subdir invocation for target.
@@ -610,7 +620,7 @@ CMakeFiles/Problems_10000_11866.dir/clean:
 CMakeFiles/Problems_00000_01978.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems_00000_01978.dir\build.make CMakeFiles/Problems_00000_01978.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems_00000_01978.dir\build.make CMakeFiles/Problems_00000_01978.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\pc\CLionProjects\BOJ\cmake-build-debug\CMakeFiles --progress-num=15,16 "Built target Problems_00000_01978"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\pc\CLionProjects\BOJ\cmake-build-debug\CMakeFiles --progress-num=19,20 "Built target Problems_00000_01978"
 .PHONY : CMakeFiles/Problems_00000_01978.dir/all
 
 # Build rule for subdir invocation for target.
@@ -636,7 +646,7 @@ CMakeFiles/Problems_00000_01978.dir/clean:
 CMakeFiles/Problems_00000_02581.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems_00000_02581.dir\build.make CMakeFiles/Problems_00000_02581.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems_00000_02581.dir\build.make CMakeFiles/Problems_00000_02581.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\pc\CLionProjects\BOJ\cmake-build-debug\CMakeFiles --progress-num=19,20 "Built target Problems_00000_02581"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\pc\CLionProjects\BOJ\cmake-build-debug\CMakeFiles --progress-num=23,24 "Built target Problems_00000_02581"
 .PHONY : CMakeFiles/Problems_00000_02581.dir/all
 
 # Build rule for subdir invocation for target.
@@ -662,7 +672,7 @@ CMakeFiles/Problems_00000_02581.dir/clean:
 CMakeFiles/Problems_00000_01929.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems_00000_01929.dir\build.make CMakeFiles/Problems_00000_01929.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems_00000_01929.dir\build.make CMakeFiles/Problems_00000_01929.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\pc\CLionProjects\BOJ\cmake-build-debug\CMakeFiles --progress-num=13,14 "Built target Problems_00000_01929"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\pc\CLionProjects\BOJ\cmake-build-debug\CMakeFiles --progress-num=17,18 "Built target Problems_00000_01929"
 .PHONY : CMakeFiles/Problems_00000_01929.dir/all
 
 # Build rule for subdir invocation for target.
@@ -688,7 +698,7 @@ CMakeFiles/Problems_00000_01929.dir/clean:
 CMakeFiles/Problems_00000_04948.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems_00000_04948.dir\build.make CMakeFiles/Problems_00000_04948.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems_00000_04948.dir\build.make CMakeFiles/Problems_00000_04948.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\pc\CLionProjects\BOJ\cmake-build-debug\CMakeFiles --progress-num=25,26 "Built target Problems_00000_04948"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\pc\CLionProjects\BOJ\cmake-build-debug\CMakeFiles --progress-num=35,36 "Built target Problems_00000_04948"
 .PHONY : CMakeFiles/Problems_00000_04948.dir/all
 
 # Build rule for subdir invocation for target.
@@ -714,7 +724,7 @@ CMakeFiles/Problems_00000_04948.dir/clean:
 CMakeFiles/Problems_00000_02941.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems_00000_02941.dir\build.make CMakeFiles/Problems_00000_02941.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems_00000_02941.dir\build.make CMakeFiles/Problems_00000_02941.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\pc\CLionProjects\BOJ\cmake-build-debug\CMakeFiles --progress-num=23,24 "Built target Problems_00000_02941"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\pc\CLionProjects\BOJ\cmake-build-debug\CMakeFiles --progress-num=27,28 "Built target Problems_00000_02941"
 .PHONY : CMakeFiles/Problems_00000_02941.dir/all
 
 # Build rule for subdir invocation for target.
@@ -740,7 +750,7 @@ CMakeFiles/Problems_00000_02941.dir/clean:
 CMakeFiles/Problems_00000_01316.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems_00000_01316.dir\build.make CMakeFiles/Problems_00000_01316.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems_00000_01316.dir\build.make CMakeFiles/Problems_00000_01316.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\pc\CLionProjects\BOJ\cmake-build-debug\CMakeFiles --progress-num=5,6 "Built target Problems_00000_01316"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\pc\CLionProjects\BOJ\cmake-build-debug\CMakeFiles --progress-num=9,10 "Built target Problems_00000_01316"
 .PHONY : CMakeFiles/Problems_00000_01316.dir/all
 
 # Build rule for subdir invocation for target.
@@ -766,7 +776,7 @@ CMakeFiles/Problems_00000_01316.dir/clean:
 CMakeFiles/Problems_10000_18870.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems_10000_18870.dir\build.make CMakeFiles/Problems_10000_18870.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems_10000_18870.dir\build.make CMakeFiles/Problems_10000_18870.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\pc\CLionProjects\BOJ\cmake-build-debug\CMakeFiles --progress-num=68,69 "Built target Problems_10000_18870"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\pc\CLionProjects\BOJ\cmake-build-debug\CMakeFiles --progress-num=78,79 "Built target Problems_10000_18870"
 .PHONY : CMakeFiles/Problems_10000_18870.dir/all
 
 # Build rule for subdir invocation for target.
@@ -792,7 +802,7 @@ CMakeFiles/Problems_10000_18870.dir/clean:
 CMakeFiles/Problems_10000_10815.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems_10000_10815.dir\build.make CMakeFiles/Problems_10000_10815.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems_10000_10815.dir\build.make CMakeFiles/Problems_10000_10815.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\pc\CLionProjects\BOJ\cmake-build-debug\CMakeFiles --progress-num=37,38 "Built target Problems_10000_10815"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\pc\CLionProjects\BOJ\cmake-build-debug\CMakeFiles --progress-num=47,48 "Built target Problems_10000_10815"
 .PHONY : CMakeFiles/Problems_10000_10815.dir/all
 
 # Build rule for subdir invocation for target.
@@ -818,7 +828,7 @@ CMakeFiles/Problems_10000_10815.dir/clean:
 CMakeFiles/Problems_10000_14425.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems_10000_14425.dir\build.make CMakeFiles/Problems_10000_14425.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems_10000_14425.dir\build.make CMakeFiles/Problems_10000_14425.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\pc\CLionProjects\BOJ\cmake-build-debug\CMakeFiles --progress-num=53,54 "Built target Problems_10000_14425"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\pc\CLionProjects\BOJ\cmake-build-debug\CMakeFiles --progress-num=63,64 "Built target Problems_10000_14425"
 .PHONY : CMakeFiles/Problems_10000_14425.dir/all
 
 # Build rule for subdir invocation for target.
@@ -844,7 +854,7 @@ CMakeFiles/Problems_10000_14425.dir/clean:
 CMakeFiles/Problems_00000_01764.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems_00000_01764.dir\build.make CMakeFiles/Problems_00000_01764.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems_00000_01764.dir\build.make CMakeFiles/Problems_00000_01764.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\pc\CLionProjects\BOJ\cmake-build-debug\CMakeFiles --progress-num=11,12 "Built target Problems_00000_01764"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\pc\CLionProjects\BOJ\cmake-build-debug\CMakeFiles --progress-num=15,16 "Built target Problems_00000_01764"
 .PHONY : CMakeFiles/Problems_00000_01764.dir/all
 
 # Build rule for subdir invocation for target.
@@ -870,7 +880,7 @@ CMakeFiles/Problems_00000_01764.dir/clean:
 CMakeFiles/Problems_00000_01620.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems_00000_01620.dir\build.make CMakeFiles/Problems_00000_01620.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems_00000_01620.dir\build.make CMakeFiles/Problems_00000_01620.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\pc\CLionProjects\BOJ\cmake-build-debug\CMakeFiles --progress-num=9,10 "Built target Problems_00000_01620"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\pc\CLionProjects\BOJ\cmake-build-debug\CMakeFiles --progress-num=13,14 "Built target Problems_00000_01620"
 .PHONY : CMakeFiles/Problems_00000_01620.dir/all
 
 # Build rule for subdir invocation for target.
@@ -896,7 +906,7 @@ CMakeFiles/Problems_00000_01620.dir/clean:
 CMakeFiles/Problems_00000_01269.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems_00000_01269.dir\build.make CMakeFiles/Problems_00000_01269.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems_00000_01269.dir\build.make CMakeFiles/Problems_00000_01269.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\pc\CLionProjects\BOJ\cmake-build-debug\CMakeFiles --progress-num=3,4 "Built target Problems_00000_01269"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\pc\CLionProjects\BOJ\cmake-build-debug\CMakeFiles --progress-num=7,8 "Built target Problems_00000_01269"
 .PHONY : CMakeFiles/Problems_00000_01269.dir/all
 
 # Build rule for subdir invocation for target.
@@ -922,7 +932,7 @@ CMakeFiles/Problems_00000_01269.dir/clean:
 CMakeFiles/Problems_10000_10816.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems_10000_10816.dir\build.make CMakeFiles/Problems_10000_10816.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems_10000_10816.dir\build.make CMakeFiles/Problems_10000_10816.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\pc\CLionProjects\BOJ\cmake-build-debug\CMakeFiles --progress-num=39,40 "Built target Problems_10000_10816"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\pc\CLionProjects\BOJ\cmake-build-debug\CMakeFiles --progress-num=49,50 "Built target Problems_10000_10816"
 .PHONY : CMakeFiles/Problems_10000_10816.dir/all
 
 # Build rule for subdir invocation for target.
@@ -948,7 +958,7 @@ CMakeFiles/Problems_10000_10816.dir/clean:
 CMakeFiles/Problems_10000_11478.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems_10000_11478.dir\build.make CMakeFiles/Problems_10000_11478.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems_10000_11478.dir\build.make CMakeFiles/Problems_10000_11478.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\pc\CLionProjects\BOJ\cmake-build-debug\CMakeFiles --progress-num=47,48 "Built target Problems_10000_11478"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\pc\CLionProjects\BOJ\cmake-build-debug\CMakeFiles --progress-num=57,58 "Built target Problems_10000_11478"
 .PHONY : CMakeFiles/Problems_10000_11478.dir/all
 
 # Build rule for subdir invocation for target.
@@ -966,6 +976,136 @@ Problems_10000_11478: CMakeFiles/Problems_10000_11478.dir/rule
 CMakeFiles/Problems_10000_11478.dir/clean:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems_10000_11478.dir\build.make CMakeFiles/Problems_10000_11478.dir/clean
 .PHONY : CMakeFiles/Problems_10000_11478.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/Problems_00000_01085.dir
+
+# All Build rule for target.
+CMakeFiles/Problems_00000_01085.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems_00000_01085.dir\build.make CMakeFiles/Problems_00000_01085.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems_00000_01085.dir\build.make CMakeFiles/Problems_00000_01085.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\pc\CLionProjects\BOJ\cmake-build-debug\CMakeFiles --progress-num=5,6 "Built target Problems_00000_01085"
+.PHONY : CMakeFiles/Problems_00000_01085.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/Problems_00000_01085.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\pc\CLionProjects\BOJ\cmake-build-debug\CMakeFiles 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/Problems_00000_01085.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\pc\CLionProjects\BOJ\cmake-build-debug\CMakeFiles 0
+.PHONY : CMakeFiles/Problems_00000_01085.dir/rule
+
+# Convenience name for target.
+Problems_00000_01085: CMakeFiles/Problems_00000_01085.dir/rule
+.PHONY : Problems_00000_01085
+
+# clean rule for target.
+CMakeFiles/Problems_00000_01085.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems_00000_01085.dir\build.make CMakeFiles/Problems_00000_01085.dir/clean
+.PHONY : CMakeFiles/Problems_00000_01085.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/Problems_00000_03009.dir
+
+# All Build rule for target.
+CMakeFiles/Problems_00000_03009.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems_00000_03009.dir\build.make CMakeFiles/Problems_00000_03009.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems_00000_03009.dir\build.make CMakeFiles/Problems_00000_03009.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\pc\CLionProjects\BOJ\cmake-build-debug\CMakeFiles --progress-num=29,30 "Built target Problems_00000_03009"
+.PHONY : CMakeFiles/Problems_00000_03009.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/Problems_00000_03009.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\pc\CLionProjects\BOJ\cmake-build-debug\CMakeFiles 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/Problems_00000_03009.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\pc\CLionProjects\BOJ\cmake-build-debug\CMakeFiles 0
+.PHONY : CMakeFiles/Problems_00000_03009.dir/rule
+
+# Convenience name for target.
+Problems_00000_03009: CMakeFiles/Problems_00000_03009.dir/rule
+.PHONY : Problems_00000_03009
+
+# clean rule for target.
+CMakeFiles/Problems_00000_03009.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems_00000_03009.dir\build.make CMakeFiles/Problems_00000_03009.dir/clean
+.PHONY : CMakeFiles/Problems_00000_03009.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/Problems_00000_04153.dir
+
+# All Build rule for target.
+CMakeFiles/Problems_00000_04153.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems_00000_04153.dir\build.make CMakeFiles/Problems_00000_04153.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems_00000_04153.dir\build.make CMakeFiles/Problems_00000_04153.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\pc\CLionProjects\BOJ\cmake-build-debug\CMakeFiles --progress-num=33,34 "Built target Problems_00000_04153"
+.PHONY : CMakeFiles/Problems_00000_04153.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/Problems_00000_04153.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\pc\CLionProjects\BOJ\cmake-build-debug\CMakeFiles 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/Problems_00000_04153.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\pc\CLionProjects\BOJ\cmake-build-debug\CMakeFiles 0
+.PHONY : CMakeFiles/Problems_00000_04153.dir/rule
+
+# Convenience name for target.
+Problems_00000_04153: CMakeFiles/Problems_00000_04153.dir/rule
+.PHONY : Problems_00000_04153
+
+# clean rule for target.
+CMakeFiles/Problems_00000_04153.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems_00000_04153.dir\build.make CMakeFiles/Problems_00000_04153.dir/clean
+.PHONY : CMakeFiles/Problems_00000_04153.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/Problems_00000_03053.dir
+
+# All Build rule for target.
+CMakeFiles/Problems_00000_03053.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems_00000_03053.dir\build.make CMakeFiles/Problems_00000_03053.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems_00000_03053.dir\build.make CMakeFiles/Problems_00000_03053.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\pc\CLionProjects\BOJ\cmake-build-debug\CMakeFiles --progress-num=31,32 "Built target Problems_00000_03053"
+.PHONY : CMakeFiles/Problems_00000_03053.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/Problems_00000_03053.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\pc\CLionProjects\BOJ\cmake-build-debug\CMakeFiles 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/Problems_00000_03053.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\pc\CLionProjects\BOJ\cmake-build-debug\CMakeFiles 0
+.PHONY : CMakeFiles/Problems_00000_03053.dir/rule
+
+# Convenience name for target.
+Problems_00000_03053: CMakeFiles/Problems_00000_03053.dir/rule
+.PHONY : Problems_00000_03053
+
+# clean rule for target.
+CMakeFiles/Problems_00000_03053.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems_00000_03053.dir\build.make CMakeFiles/Problems_00000_03053.dir/clean
+.PHONY : CMakeFiles/Problems_00000_03053.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/Problems_00000_01002.dir
+
+# All Build rule for target.
+CMakeFiles/Problems_00000_01002.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems_00000_01002.dir\build.make CMakeFiles/Problems_00000_01002.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems_00000_01002.dir\build.make CMakeFiles/Problems_00000_01002.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\pc\CLionProjects\BOJ\cmake-build-debug\CMakeFiles --progress-num=1,2 "Built target Problems_00000_01002"
+.PHONY : CMakeFiles/Problems_00000_01002.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/Problems_00000_01002.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\pc\CLionProjects\BOJ\cmake-build-debug\CMakeFiles 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/Problems_00000_01002.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\pc\CLionProjects\BOJ\cmake-build-debug\CMakeFiles 0
+.PHONY : CMakeFiles/Problems_00000_01002.dir/rule
+
+# Convenience name for target.
+Problems_00000_01002: CMakeFiles/Problems_00000_01002.dir/rule
+.PHONY : Problems_00000_01002
+
+# clean rule for target.
+CMakeFiles/Problems_00000_01002.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems_00000_01002.dir\build.make CMakeFiles/Problems_00000_01002.dir/clean
+.PHONY : CMakeFiles/Problems_00000_01002.dir/clean
 
 #=============================================================================
 # Special targets to cleanup operation of make.
