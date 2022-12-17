@@ -30,10 +30,11 @@ int main() {
 
     long long int N, M; cin >> N >> M;
 
-    vector<pair<long long int, long long int>> v;
+    vector<pair<long long int, long long int>> v(3);
     v[0] = fun(N);
     v[1] = fun(M);
     v[2] = fun(N-M);
+
 
     cout << min(v[0].first - v[1].first - v[2].first, v[0].second - v[1].second - v[2].second) << endl;
 

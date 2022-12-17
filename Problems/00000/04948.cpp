@@ -4,11 +4,11 @@
 #define fastio ios_base::sync_with_stdio(0), cin.tie(0)
 /**
  * BOJ 4948 베르트랑 공준 - https://www.acmicpc.net/problem/4948
- * NOT FINISHED
+ * Tier: Silver II
  */
 
 using namespace std;
-bool isPrime[123457];
+bool isPrime[250000];
 list<int> numList;
 
 int main() {
@@ -20,13 +20,13 @@ int main() {
         cin >> N;
     }
 
-    for(int i = 1; i <= M; i++) {
+    for(int i = 1; i <= 2*M; i++) {
         isPrime[i] = true;
     }
     isPrime[1] = false;
-    for(int i = 2; i <= sqrt(M); i++) {
+    for(int i = 2; i <= sqrt(2*M + 1); i++) {
         if(isPrime[i]) {
-            for(int j = i*2; j <= M; j+=i) isPrime[j] = false;
+            for(int j = i*2; j <= 2*M; j+=i) isPrime[j] = false;
         }
     }
 
