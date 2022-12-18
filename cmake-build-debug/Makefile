@@ -791,6 +791,19 @@ Problems_10000_11053/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems_10000_11053.dir\build.make CMakeFiles/Problems_10000_11053.dir/build
 .PHONY : Problems_10000_11053/fast
 
+#=============================================================================
+# Target rules for targets named Problems_10000_10828
+
+# Build rule for target.
+Problems_10000_10828: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Problems_10000_10828
+.PHONY : Problems_10000_10828
+
+# fast build rule for target.
+Problems_10000_10828/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems_10000_10828.dir\build.make CMakeFiles/Problems_10000_10828.dir/build
+.PHONY : Problems_10000_10828/fast
+
 Problems/00000/01002.obj: Problems/00000/01002.cpp.obj
 .PHONY : Problems/00000/01002.obj
 
@@ -1712,6 +1725,30 @@ Problems/10000/10816.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems_10000_10816.dir\build.make CMakeFiles/Problems_10000_10816.dir/Problems/10000/10816.cpp.s
 .PHONY : Problems/10000/10816.cpp.s
 
+Problems/10000/10828.obj: Problems/10000/10828.cpp.obj
+.PHONY : Problems/10000/10828.obj
+
+# target to build an object file
+Problems/10000/10828.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems_10000_10828.dir\build.make CMakeFiles/Problems_10000_10828.dir/Problems/10000/10828.cpp.obj
+.PHONY : Problems/10000/10828.cpp.obj
+
+Problems/10000/10828.i: Problems/10000/10828.cpp.i
+.PHONY : Problems/10000/10828.i
+
+# target to preprocess a source file
+Problems/10000/10828.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems_10000_10828.dir\build.make CMakeFiles/Problems_10000_10828.dir/Problems/10000/10828.cpp.i
+.PHONY : Problems/10000/10828.cpp.i
+
+Problems/10000/10828.s: Problems/10000/10828.cpp.s
+.PHONY : Problems/10000/10828.s
+
+# target to generate assembly for a file
+Problems/10000/10828.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems_10000_10828.dir\build.make CMakeFiles/Problems_10000_10828.dir/Problems/10000/10828.cpp.s
+.PHONY : Problems/10000/10828.cpp.s
+
 Problems/10000/11047.obj: Problems/10000/11047.cpp.obj
 .PHONY : Problems/10000/11047.obj
 
@@ -2127,6 +2164,7 @@ help:
 	@echo ... Problems_10000_10814
 	@echo ... Problems_10000_10815
 	@echo ... Problems_10000_10816
+	@echo ... Problems_10000_10828
 	@echo ... Problems_10000_11047
 	@echo ... Problems_10000_11050
 	@echo ... Problems_10000_11053
@@ -2255,6 +2293,9 @@ help:
 	@echo ... Problems/10000/10816.obj
 	@echo ... Problems/10000/10816.i
 	@echo ... Problems/10000/10816.s
+	@echo ... Problems/10000/10828.obj
+	@echo ... Problems/10000/10828.i
+	@echo ... Problems/10000/10828.s
 	@echo ... Problems/10000/11047.obj
 	@echo ... Problems/10000/11047.i
 	@echo ... Problems/10000/11047.s
