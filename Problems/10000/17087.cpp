@@ -11,6 +11,11 @@ using namespace std;
 
 vector<int> v;
 
+int GCD(int a, int b) {
+    if(a%b == 0) return b;
+    else return GCD(b, a%b);
+}
+
 int main() {
     fastio;
 
@@ -18,6 +23,13 @@ int main() {
     for(int i = 0; i < N; i++) {
         int k; cin >> k; v.push_back(abs(S-k));
     }
+
+    int gcd = v[0];
+    for(int i : v) {
+        gcd = GCD(gcd, i);
+    }
+
+    cout << gcd;
 
     return 0;
 }
