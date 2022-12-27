@@ -13,10 +13,10 @@ int num[100];
 int main() {
     fastio;
 
-    int N; cin >> N;
+    int N; cin >> N; // scanf("%d", &N);
     int r = 0;
     for(int i = 0; i < N; i++) {
-        cin >> num[i];
+        cin >> num[i]; // scanf("%d", &num[i]);
         if(num[i] == 1) {
             r++;
             continue;
@@ -28,6 +28,6 @@ int main() {
             }
         }
     }
-    cout << (N-r);
+    cout << (N-r); // printf("%d", N-r);
     return 0;
 }
