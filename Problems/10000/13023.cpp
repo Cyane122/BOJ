@@ -9,47 +9,36 @@ using namespace std;
  * Tier: Gold V
  */
 
-bool friends[2001][2001];
-list<int> visited[2001];
-int N, M, A, B;
-bool k = false;
+int n,m,a;
+vector<int> graph[2001];
+int ck[2001];
 
-void DFS(int x, int y, int t) {
-    if(y == t) return;
-    if(visited[t].empty()) visited[t].push_back(x);
-    visited[t].push_back(y);
-    if(visited[t].size() == 5) {
-        k = true;
-        return;
+int dfs(int start,int cnt){
+    if(cnt == 5) return 1;
+    if(ck[start]) return 0;
+    ck[start] = 1;
+    int ans = 0;
+    for(int i = 0; i < graph[start].size(); i++){
+        int next = graph[start][i];
+        if(ck[next]) continue;
+        ans = max(ans,dfs(next,cnt+1));
     }
-    for(int i = 0; i < N; i++) {
-        if(friends[y][i] && find(visited[t].begin(), visited[t].end(), i) == visited[t].end()) {
-            DFS(y, i, t);
-        }
-    }
+    ck[start] = 0;
+    return ans;
 }
 
-int main() {
-    fastio;
-    cin >> N >> M;
-    for(int i = 0; i < N; i++) {
-        fill(friends[i], friends[i]+N, false);
+int main(){
+    cin >> n >> m;
+    for(int i = 0; i < m; i++){
+        int start, end;
+        cin >> start >> end;
+        graph[start].push_back(end);
+        graph[end].push_back(start);
     }
-    for(int i = 0; i < M; i++) {
-        cin >> A >> B;
-        friends[A][B] = true;
-        friends[B][A] = true;
+
+    for(int i = 0; i < n; i++){
+        memset(ck,0,sizeof(ck));
+        a = max(a,dfs(i,1));
     }
-    for(int i = 0; i < N; i++) {
-        for(int j = 0; j < N; j++) {
-            if(i == j) continue;
-            if(friends[i][j]) DFS(i, j, i);
-            if(k) {
-                cout << 1 << endl;
-                return 0;
-            }
-        }
-    }
-    cout << 0;
-    return 0;
+    cout << a <<'\n';
 }
