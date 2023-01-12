@@ -9,18 +9,21 @@ using namespace std;
  * Tier: Silver II
  */
 
-queue<int> q; bool visited[100002]; int graph[100002][100002]; int N, M, R, step[100002], s = 1;
+queue<int> q; bool visited[100002]; vector<int> v[100001]; int N, M, R, step[100002], s = 1;
 
 int main() {
     fastio;
     cin >> N >> M >> R;
     while(M--) {
         int x, y; cin >> x >> y;
-        graph[x][y] = true;
-        graph[y][x] = true;
+        v[x].push_back(y);
+        v[y].push_back(x);
     }
 
-    for(int i = 1; i <= N; i++) visited[i] = false;
+    for(int i = 1; i <= N; i++) {
+        visited[i] = false;
+        sort(v[i].begin(), v[i].end());
+    }
 
     visited[R] = true;
     q.push(R);
@@ -28,13 +31,12 @@ int main() {
     while(!q.empty()) {
         int K = q.front();
         q.pop();
-        for(int i = 1; i <= N; i++) {
-            if(!visited[i] && graph[K][i]) {
-                visited[i] = true;
-                q.push(i);
-                step[i] = s;
-                s++;
-            }
+        for(auto i: v[K]) {
+            if(visited[i]) continue;
+            step[i] = s;
+            s++;
+            visited[i] = true;
+            q.push(i);
         }
     }
     for(int i = 1; i <= N; i++) cout << step[i] << endl;
