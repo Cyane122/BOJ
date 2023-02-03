@@ -9,8 +9,37 @@ using namespace std;
  * Tier: Silver III
  */
 
+string str; bool tag = false; stack<char> s;
+
+void print() {
+    while(!s.empty()) {
+        cout << s.top();
+        s.pop();
+    }
+}
+
 int main() {
     fastio;
-    string str; cin >> str;
+    getline(cin, str);
+    for(char ch: str) {
+        if(ch == '<') {
+            print();
+            tag = true;
+            cout << ch;
+        } else if (ch == '>') {
+            tag = false;
+            cout << ch;
+        } else if (tag) {
+            cout << ch;
+        } else {
+            if(ch == ' ') {
+                print();
+                cout << ch;
+            } else {
+                s.push(ch);
+            }
+        }
+    }
+    print();
     return 0;
 }
